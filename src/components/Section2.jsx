@@ -3,7 +3,7 @@ import "../styles/Section2.css";
 import secImg1 from '../assets/sec2one.jpg';
 import secVid1 from '../assets/sec2two.mp4';
 import secImg2 from '../assets/sec2three.jpg';
-import secImg3 from '../assets/sec2four.jpg';
+import secImg3 from '../assets/four.jpg';
 import secVid2 from '../assets/sec2five.mp4';
 
 const Section2 = () => {
