@@ -1,0 +1,164 @@
+/* Base styles for mobile-first approach */
+.navbar {
+  background-color: #ffffff !important; /* Navbar background */
+  height: auto; /* Adjust based on content */
+  font-family: 'Optimistic Text', sans-serif;
+  border-bottom: 1px solid #00000024;
+  color: #000;
+  font-size: 1.1rem;
+}
+
+.navbar-logo {
+  height: 35px; /* Logo size */
+  width: auto; /* Maintain aspect ratio */
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: column; /* Stack items vertically on mobile */
+  align-items: flex-start; /* Align items to the left on mobile */
+ 
+  margin-left: 3rem;
+}
+
+.navbar-nav .nav-item {
+  margin-bottom: 0.5rem; /* Space between items on mobile */
+}
+
+.nav-support-search {
+  display: flex;
+  flex-direction: column; /* Stack items vertically on mobile */
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.nav-support-search .search-icon {
+  font-size: 1.25rem; /* Adjust size of search icon */
+}
+
+/* Card Styles */
+.dropdown-card {
+  position: fixed;
+  top: 6rem; /* Space from the top */
+  left: 0;
+  width: 100vw;
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1050;
+  border-top: 1px solid #0000001b;
+  padding: 1rem;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  display: none; /* Hidden by default */
+}
+
+.dropdown-card.show {
+  display: block; /* Show when active */
+}
+
+/* Caret styles */
+.caret {
+  display: inline-block;
+  margin-left: 0.5rem;
+  font-size: 1rem;
+  color: #007bff;
+  transition: transform 0.3s ease;
+}
+
+.caret-down {
+  transform: rotate(0deg);
+}
+
+.caret-up {
+  transform: rotate(180deg);
+}
+
+/* Dropdown content styles */
+.dropdown-content {
+  display: flex;
+  flex-wrap: wrap; /* Allow wrapping on smaller screens */
+  gap: 2rem; /* Space between batches */
+}
+
+.dropdown-batch {
+  flex: 1;
+  min-width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.dropdown-batch h5 {
+  margin-top: 10px;
+ 
+  font-size: 16px;
+  font-weight: 600;
+  text-align: start;
+}
+
+.dropdown-batch ul {
+  list-style: none;
+  padding: 0;
+  
+  text-align: start;
+}
+
+.dropdown-batch li {
+  margin-bottom: 0.5rem;
+  font-size: 14px;
+  text-align: start;
+}
+
+.dropdown-batch .dropdown-image {
+  width: 40%;
+  height: auto;
+}
+
+/* Toggler styles */
+.navbar-toggler-custom {
+  border-color: #007bff; /* Custom toggler border color */
+}
+
+.navbar-toggler-icon {
+  background-image: url('data:image/svg+xml;charset=utf8,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"%3E%3Cpath stroke="currentColor" stroke-width="2" d="M5 7h20M5 15h20M5 23h20" /%3E%3C/svg%3E');
+}
+
+/* Search icon styles */
+.search-icon {
+  color: #000;
+  font-size: 1.25rem;
+}
+
+.search-icon:hover {
+  color: #007bff;
+}
+
+/* Media queries for larger screens */
+@media (min-width: 576px) {
+  .navbar-nav {
+    flex-direction: row; /* Align items horizontally */
+    gap: 1rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar-nav {
+    gap: 1.5rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar {
+    height: 6rem;
+  }
+
+  .navbar-logo {
+    margin-left: -2.5rem;
+  }
+
+  .nav-support-search {
+    gap: 2rem;
+    margin-top: 0;
+    margin-right: -1rem;
+  }
+}

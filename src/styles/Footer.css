@@ -1,0 +1,73 @@
+/* Footer.css */
+
+/* Ensure the footer spans the full width of the screen */
+.footer {
+    /* Increased margin for clear separation */
+    padding: 60px !important;
+    background-color: #ffffff; /* Light background color */
+    border-top: 1px solid #ddd; /* Border at the top */
+}
+
+/* Style for the logo */
+.footer-logo {
+    max-width: 50%; /* Ensure the logo scales correctly */
+    height: auto;
+    display: block; /* Ensure it doesn't get extra space below */
+}
+
+/* Style for headings */
+.footer h5 {
+    font-size: 1.25rem; /* Font size for headings */
+    margin-bottom: 1rem;
+}
+
+/* Style for unordered lists */
+.footer ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0;
+}
+
+.footer ul li {
+    margin-bottom: 0.5rem;
+}
+
+.footer ul li a {
+    text-decoration: none;
+    color: #070f17; /* Link color */
+    transition: color 0.3s;
+}
+
+.footer ul li a:hover {
+    color: #161c23; /* Darker color on hover */
+}
+
+/* Adjust spacing for footer content */
+.row {
+    margin-bottom: 1rem; /* Space between rows */
+}
+
+/* Align footer text in the center */
+
+.logo2{
+    width: 70%;
+}
+
+.footer-bottom {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+}
+
+.footer-bottom a {
+    color: #000;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.footer-bottom a:hover {
+    text-decoration: underline;
+}
+
+.footer-bottom .form-select {
+    border-radius: 5px;
+}

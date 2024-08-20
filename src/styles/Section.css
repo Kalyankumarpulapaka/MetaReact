@@ -1,0 +1,95 @@
+/* Container styles */
+.container {
+    padding: 2rem; /* Adjust padding as needed */
+}
+
+/* Column styles */
+.column-content {
+    padding: 1rem;
+    background-color: #ffffff; /* Light background color */
+    border-radius: 0.375rem; /* Rounded corners */
+    margin-bottom: 20px; /* Add margin-bottom to create space between video and text */
+    display: flex; /* Use Flexbox */
+    flex-direction: row; /* Align children in a row */
+    gap: 1rem; /* Add space between items */
+}
+
+/* Style for each thread1 */
+.thread1 {
+    flex: 1; /* Allow each .thread1 to take equal width */
+    display: flex;
+    flex-direction: column; /* Align content inside vertically */
+}
+
+/* Style for images */
+.column-content img {
+    width: 100%;
+    height: auto;
+    border-radius: 0.375rem; /* Optional: rounded corners for images */
+}
+
+/* Responsive adjustments */
+@media (max-width: 767.98px) {
+    .column-content {
+        flex-direction: column; /* Stack items vertically on small screens */
+        text-align: center;
+    }
+}
+
+/* Section.css */
+
+/* Style for the h1 and h4 elements */
+.ro2 {
+    font-family: 'Roboto Condensed', Arial, sans-serif !important;
+    color: #4d4d4dca; /* Neutral grey color */
+    margin-top: 20px;
+}
+
+/* Specific style for h1 (Newsroom) */
+.ro2 h1 {
+    font-size: 46px; /* Adjust size as needed */
+    font-weight: normal;
+}
+
+/* Specific style for h4 (Top Stories) */
+.top-stories {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.top-stories h4 {
+    font-family: 'Roboto Condensed', Arial, sans-serif;
+    font-size: 22px; /* Adjust size as needed */
+    font-weight: bold;
+    letter-spacing: 2px; /* Increase space between letters */
+    text-transform: uppercase; /* Ensure the text is in all caps */
+    
+}
+.card0{
+
+    text-align: start !important;
+}
+
+.marked-h5{
+    padding: 3px;
+   
+
+    border-bottom: 1px solid rgb(50, 172, 221) ;
+}
+
+
+/* Section.css */
+.full-width-image {
+    width: 100%;
+    overflow: hidden; /* Prevents horizontal scroll */
+}
+
+.full-width-image img {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove any extra space below the image */
+}
+
+
+
+

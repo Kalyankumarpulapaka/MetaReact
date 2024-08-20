@@ -1,0 +1,46 @@
+/* Section3.css */
+
+/* Ensure the container spans the full width of the screen */
+.container-fluid {
+    padding: 0 !important; /* Remove default padding */
+    margin: 0 !important; /* Remove default margin */
+}
+
+.row {
+    margin: 0; /* Remove default margin */
+}
+
+.press-links {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    gap: 20px; /* Space between items */
+    padding: 40px; /* Padding inside the container */
+    background-color: #f8f9fa; /* Light background color */
+    border-radius: 8px; /* Rounded corners */
+    border: 1px solid #ddd; /* Light border */
+    width: 100%; /* Full width */
+    box-sizing: border-box; /* Ensure padding and border are included in the width */
+}
+
+/* Remove any default margin or padding on items */
+.press-links-item {
+    flex: 1; /* Allow items to grow and shrink as needed */
+    margin: 0; /* Remove margin */
+    padding: 0; /* Remove padding */
+}
+
+.press-links h5 {
+    font-size: 1.25rem; /* Heading font size */
+    margin: 0; /* Remove margin for alignment */
+    font-weight: bold; /* Make heading bold */
+}
+
+.link-item {
+    text-decoration: none; /* Remove underline */
+    color: #070f17; /* Link color */
+    transition: color 0.3s;
+}
+
+.link-item:hover {
+    color: #161c23; /* Darker color on hover */
+}
