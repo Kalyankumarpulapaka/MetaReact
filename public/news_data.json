@@ -1,0 +1,662 @@
+[
+    {
+        "Title": "Review of Fact-Checking Label and Meta AI Responses",
+        "Description": "There were two noteworthy issues that occurred on our platforms in the past week which we investigated and have addressed.",
+        "Date": "July 30, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/Kalyankumarpulapaka/Project_images/main/fb1.jpg",
+        "Category": "Facebook"
+    },
+    {
+        "Title": "Our New AI Model Can Segment Anything – Even Video",
+        "Description": "We’re introducing Segment Anything Model 2, the first unified model that can identify which pixels belong to a target object in an image or video.",
+        "Date": "July 29, 2024",
+        "MediaType": "video",
+        "MediaURL": "https://raw.githubusercontent.com/Kalyankumarpulapaka/Project_images/main/fb2.mp4",
+        "Category": "Facebook"
+    },
+    {
+        "Title": "Combating Financial Sextortion Scams From Nigeria",
+        "Description": "We’ve removed around 63,000 accounts in Nigeria attempting to target people with financial sextortion scams, including a coordinated network of around 2,500 accounts.",
+        "Date": "July 24, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/Kalyankumarpulapaka/Project_images/main/fb3.jpg",
+        "Category": "Facebook"
+    },
+    {
+        "Title": "Building Accessibility Into Our Mixed Reality Products",
+        "Description": "We recently partnered with people with disabilities and disability advocates to integrate accessibility into our mixed reality technology.",
+        "Date": "July 16, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/Kalyankumarpulapaka/Project_images/main/fb4.jpg",
+        "Category": "Facebook"
+    },
+    {
+        "Title": "What Is the Fediverse?",
+        "Description": "The fediverse is a global social network of interconnected servers that allows people to communicate across different platforms.",
+        "Date": "June 25, 2024",
+        "MediaType": "video",
+        "MediaURL": "https://raw.githubusercontent.com/Kalyankumarpulapaka/Project_images/main/fb5.mp4",
+        "Category": "Facebook"
+    },
+    {
+        "Title": "Messenger Launches New Emoji Reactions",
+        "Description": "Messenger introduces a set of new emoji reactions to enhance user communication.",
+        "Date": "August 1, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/Kalyankumarpulapaka/Project_images/main/m1.jpeg",
+        "Category": "Messenger"
+    },
+    {
+        "Title": "Messenger Improves Video Calling Quality",
+        "Description": "Recent updates to Messenger have significantly improved video call quality and stability.",
+        "Date": "August 5, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/Kalyankumarpulapaka/Project_images/main/m2.jpeg",
+        "Category": "Messenger"
+    },
+    {
+        "Title": "New Privacy Settings for Messenger",
+        "Description": "Messenger rolls out new privacy settings allowing users to control who can contact them.",
+        "Date": "August 8, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/Kalyankumarpulapaka/Project_images/main/m3.jpeg",
+        "Category": "Messenger"
+    },
+    {
+        "Title": "Messenger Integrates with Instagram for Seamless Messaging",
+        "Description": "Users can now connect their Messenger and Instagram accounts for a unified messaging experience.",
+        "Date": "August 12, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/Kalyankumarpulapaka/Project_images/main/m4.jpeg",
+        "Category": "Messenger"
+    },
+    {
+        "Title": "Messenger Launches New AI-Powered Chatbots",
+        "Description": "Messenger introduces advanced AI chatbots to help users with common queries and tasks.",
+        "Date": "August 15, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/Kalyankumarpulapaka/Project_images/main/m5.jpeg",
+        "Category": "Messenger"
+    },
+    {
+        "Title": "New Instagram Features Announced",
+        "Description": "Instagram has introduced several new features to enhance user experience.",
+        "Date": "August 10, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-1.jpg",
+        "Category": "Instagram"
+    },
+    {
+        "Title": "Instagram Reels Hits 1 Billion Users",
+        "Description": "Instagram Reels has reached a new milestone with over 1 billion active users.",
+        "Date": "August 12, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-2.jpg",
+        "Category": "Instagram"
+    },
+    {
+        "Title": "New Instagram Filters Available",
+        "Description": "Check out the latest filters added to Instagram for your photos and videos.",
+        "Date": "August 15, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-3.jpg",
+        "Category": "Instagram"
+    },
+    {
+        "Title": "Instagram Shopping Expands",
+        "Description": "Instagram Shopping is now available in more countries, making it easier to buy products.",
+        "Date": "August 18, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-4.jpg",
+        "Category": "Instagram"
+    },
+    {
+        "Title": "Instagram's New Algorithm Update",
+        "Description": "Instagram's algorithm has been updated to improve content recommendations.",
+        "Date": "August 20, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-5.jpg",
+        "Category": "Instagram"
+    },
+    {
+        "Title": "WhatsApp Introduces New Privacy Features",
+        "Description": "New privacy features have been added to WhatsApp to enhance user security.",
+        "Date": "August 11, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-6.jpg",
+        "Category": "WhatsApp"
+    },
+    {
+        "Title": "WhatsApp Web Gets New Design",
+        "Description": "The WhatsApp Web interface has been redesigned for better user experience.",
+        "Date": "August 13, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-7.jpg",
+        "Category": "WhatsApp"
+    },
+    {
+        "Title": "WhatsApp Launches Voice and Video Calling Upgrades",
+        "Description": "Improvements to voice and video calling on WhatsApp make communication smoother.",
+        "Date": "August 16, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-67.jpg",
+        "Category": "WhatsApp"
+    },
+    {
+        "Title": "WhatsApp Group Features Enhanced",
+        "Description": "New features for managing WhatsApp groups have been introduced.",
+        "Date": "August 19, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-98.jpg",
+        "Category": "WhatsApp"
+    },
+    {
+        "Title": "WhatsApp Dark Mode Improvements",
+        "Description": "WhatsApp's dark mode has been updated with better contrast and readability.",
+        "Date": "August 22, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-21.jpg",
+        "Category": "WhatsApp"
+    },
+    {
+        "Title": "Threads Launches New Collaboration Tools",
+        "Description": "Threads introduces new tools to make team collaboration easier.",
+        "Date": "August 9, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-82.jpg",
+        "Category": "Threads"
+    },
+    {
+        "Title": "Threads Integration with Major Platforms",
+        "Description": "Threads now integrates with more major platforms for seamless communication.",
+        "Date": "August 14, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-122.jpg",
+        "Category": "Threads"
+    },
+    {
+        "Title": "New Updates in Threads UI",
+        "Description": "Threads has rolled out updates to its user interface for a better experience.",
+        "Date": "August 17, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-207.jpg",
+        "Category": "Threads"
+    },
+    {
+        "Title": "Threads Now Supports More File Types",
+        "Description": "You can now upload and share more file types using Threads.",
+        "Date": "August 21, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-99.jpg",
+        "Category": "Threads"
+    },
+    {
+        "Title": "Threads Announces New Security Features",
+        "Description": "New security features have been added to Threads to protect your data.",
+        "Date": "August 25, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-78.jpg",
+        "Category": "Threads"
+    },
+    {
+        "Title": "Meta Quest Expands VR Games Library",
+        "Description": "Meta Quest adds a variety of new VR games to its library.",
+        "Date": "August 8, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-34.jpg",
+        "Category": "Meta Quest"
+    },
+    {
+        "Title": "New Meta Quest Headset Features",
+        "Description": "The latest Meta Quest headset comes with exciting new features.",
+        "Date": "August 13, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-82.jpg",
+        "Category": "Meta Quest"
+    },
+    {
+        "Title": "Meta Quest Announces AR Support",
+        "Description": "Meta Quest will soon support augmented reality experiences.",
+        "Date": "August 18, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-89.jpg",
+        "Category": "Meta Quest"
+    },
+    {
+        "Title": "Meta Quest Partners with Major Studios",
+        "Description": "Meta Quest has partnered with major studios to bring exclusive content.",
+        "Date": "August 22, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-54.jpg",
+        "Category": "Meta Quest"
+    },
+    {
+        "Title": "Meta Quest VR Fitness Programs Launched",
+        "Description": "New VR fitness programs are now available on Meta Quest.",
+        "Date": "August 26, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-45.jpg",
+        "Category": "Meta Quest"
+    },
+    {
+        "Title": "Workplace Introduces New Collaboration Tools",
+        "Description": "New tools have been added to Workplace to enhance team collaboration.",
+        "Date": "August 7, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-77.jpg",
+        "Category": "Workplace"
+    },
+    {
+        "Title": "Workplace's Latest Security Enhancements",
+        "Description": "Workplace has rolled out new security features to protect your data.",
+        "Date": "August 12, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-62.jpg",
+        "Category": "Workplace"
+    },
+    {
+        "Title": "New User Interface for Workplace",
+        "Description": "Workplace has updated its user interface for a better experience.",
+        "Date": "August 15, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-132.jpg",
+        "Category": "Workplace"
+    },
+    {
+        "Title": "Workplace's New Integration Capabilities",
+        "Description": "Workplace now integrates with additional tools and platforms.",
+        "Date": "August 19, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-142.jpg",
+        "Category": "Workplace"
+    },
+    {
+        "Title": "Workplace Announces New Training Programs",
+        "Description": "New training programs are available to help teams get the most out of Workplace.",
+        "Date": "August 24, 2024",
+        "MediaType": "image",
+        "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-152.jpg",
+        "Category": "Workplace"
+    },
+   
+        {
+            "Title": "Company Expansion Plans for 2024",
+            "Description": "Our company is planning significant expansions in multiple regions.",
+            "Date": "August 5, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-198.jpg",
+            "Category": "Company News"
+        },
+        {
+            "Title": "New Leadership Appointments",
+            "Description": "We have appointed new leaders to drive our strategic initiatives.",
+            "Date": "August 8, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-65.jpg",
+            "Category": "Company News"
+        },
+        {
+            "Title": "Quarterly Earnings Report Released",
+            "Description": "The latest earnings report highlights our financial performance.",
+            "Date": "August 12, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-89.jpg",
+            "Category": "Company News"
+        },
+        {
+            "Title": "Company's New Sustainability Goals",
+            "Description": "We are setting ambitious sustainability goals for the coming years.",
+            "Date": "August 17, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-92.jpg",
+            "Category": "Company News"
+        },
+        {
+            "Title": "Award for Best Employer of the Year",
+            "Description": "Our company has been recognized as the best employer of the year.",
+            "Date": "August 20, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-72.jpg",
+            "Category": "Company News"
+        },
+    
+        
+        {
+            "Title": "Breakthrough in Quantum Computing",
+            "Description": "A major breakthrough in quantum computing has been achieved.",
+            "Date": "August 6, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-34.jpg",
+            "Category": "Technology and Innovation"
+        },
+        {
+            "Title": "New AI Technology Revolutionizes Industry",
+            "Description": "A new AI technology is set to revolutionize the industry.",
+            "Date": "August 9, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-19.jpg",
+            "Category": "Technology and Innovation"
+        },
+        {
+            "Title": "Advancements in 5G Technology",
+            "Description": "Recent advancements in 5G technology will impact connectivity.",
+            "Date": "August 14, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-65.jpg",
+            "Category": "Technology and Innovation"
+        },
+        {
+            "Title": "Innovative Tech Startups to Watch",
+            "Description": "A list of innovative tech startups that are making waves.",
+            "Date": "August 18, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-90.jpg",
+            "Category": "Technology and Innovation"
+        },
+        {
+            "Title": "Breakthroughs in Renewable Energy",
+            "Description": "Recent breakthroughs are making renewable energy more accessible.",
+            "Date": "August 23, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-57.jpg",
+            "Category": "Technology and Innovation"
+        },
+    
+      
+        {
+            "Title": "New Data Protection Regulations",
+            "Description": "New regulations have been introduced to protect user data.",
+            "Date": "August 7, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-178.jpg",
+            "Category": "Data and Privacy"
+        },
+        {
+            "Title": "Enhancements in Privacy Controls",
+            "Description": "We have made enhancements to our privacy controls for better security.",
+            "Date": "August 11, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-18.jpg",
+            "Category": "Data and Privacy"
+        },
+        {
+            "Title": "Data Breach Prevention Strategies",
+            "Description": "New strategies have been implemented to prevent data breaches.",
+            "Date": "August 14, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-186.jpg",
+            "Category": "Data and Privacy"
+        },
+        {
+            "Title": "The Future of Data Encryption",
+            "Description": "Innovations in data encryption are paving the way for future security.",
+            "Date": "August 17, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-165.jpg",
+            "Category": "Data and Privacy"
+        },
+        {
+            "Title": "Impact of GDPR on Businesses",
+            "Description": "An analysis of how GDPR is affecting businesses globally.",
+            "Date": "August 21, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-165.jpg",
+            "Category": "Data and Privacy"
+        },
+    
+      
+        {
+            "Title": "New Safety Measures for Online Platforms",
+            "Description": "Enhanced safety measures have been introduced for online platforms.",
+            "Date": "August 10, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-136.jpg",
+            "Category": "Safety and Expression"
+        },
+        {
+            "Title": "Promoting Freedom of Expression Online",
+            "Description": "Initiatives are being taken to promote freedom of expression online.",
+            "Date": "August 13, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-126.jpg",
+            "Category": "Safety and Expression"
+        },
+        {
+            "Title": "Combating Online Harassment",
+            "Description": "New strategies are being implemented to combat online harassment.",
+            "Date": "August 16, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-186.jpg",
+            "Category": "Safety and Expression"
+        },
+        {
+            "Title": "Safety Protocols for Social Media",
+            "Description": "Updated safety protocols for social media platforms.",
+            "Date": "August 19, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-136.jpg",
+            "Category": "Safety and Expression"
+        },
+        {
+            "Title": "Enhancing User Protection Online",
+            "Description": "New measures are being taken to enhance user protection online.",
+            "Date": "August 24, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-162.jpg",
+            "Category": "Safety and Expression"
+        },
+    
+        
+        {
+            "Title": "New Tools to Combat Misinformation",
+            "Description": "Tools have been developed to help combat misinformation online.",
+            "Date": "August 8, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-98.jpg",
+            "Category": "Combating Misinformation"
+        },
+        {
+            "Title": "Partnerships to Fight Fake News",
+            "Description": "We have partnered with organizations to fight against fake news.",
+            "Date": "August 12, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-198.jpg",
+            "Category": "Combating Misinformation"
+        },
+        {
+            "Title": "Educational Campaigns on Misinformation",
+            "Description": "Educational campaigns are being launched to raise awareness about misinformation.",
+            "Date": "August 16, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-146.jpg",
+            "Category": "Combating Misinformation"
+        },
+        {
+            "Title": "New Reporting Features for Misinformation",
+            "Description": "New features have been added to report misinformation more effectively.",
+            "Date": "August 20, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-106.jpg",
+            "Category": "Combating Misinformation"
+        },
+        {
+            "Title": "Evaluating Misinformation Impact",
+            "Description": "Assessing the impact of misinformation on society and platforms.",
+            "Date": "August 25, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-109.jpg",
+            "Category": "Combating Misinformation"
+        },
+    
+      
+        {
+            "Title": "New Initiatives for Economic Growth",
+            "Description": "New initiatives are being launched to drive economic growth.",
+            "Date": "August 9, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-195.jpg",
+            "Category": "Economic Opportunity"
+        },
+        {
+            "Title": "Programs to Support Small Businesses",
+            "Description": "Programs have been introduced to support small businesses.",
+            "Date": "August 13, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-169.jpg",
+            "Category": "Economic Opportunity"
+        },
+        {
+            "Title": "Economic Impact of New Technologies",
+            "Description": "Exploring the economic impact of emerging technologies.",
+            "Date": "August 17, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-96.jpg",
+            "Category": "Economic Opportunity"
+        },
+        {
+            "Title": "Investments in Sustainable Development",
+            "Description": "Investments are being made in sustainable development projects.",
+            "Date": "August 21, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-186.jpg",
+            "Category": "Economic Opportunity"
+        },
+        {
+            "Title": "Boosting Local Economies Through Innovation",
+            "Description": "Innovation is being used to boost local economies.",
+            "Date": "August 25, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-100.jpg",
+            "Category": "Economic Opportunity"
+        },
+    
+        
+        {
+            "Title": "New Measures to Ensure Election Integrity",
+            "Description": "New measures have been implemented to ensure election integrity.",
+            "Date": "August 6, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-206.jpg",
+            "Category": "Election Integrity"
+        },
+        {
+            "Title": "Partnerships to Combat Election Fraud",
+            "Description": "We are partnering with organizations to combat election fraud.",
+            "Date": "August 10, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-286.jpg",
+            "Category": "Election Integrity"
+        },
+        {
+            "Title": "Advances in Voting Technology",
+            "Description": "Recent advances in voting technology improve election processes.",
+            "Date": "August 15, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-286.jpg",
+            "Category": "Election Integrity"
+        },
+        {
+            "Title": "Monitoring Election Security",
+            "Description": "Efforts to monitor and secure elections are being intensified.",
+            "Date": "August 18, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-246.jpg",
+            "Category": "Election Integrity"
+        },
+        {
+            "Title": "Training for Election Officials",
+            "Description": "New training programs are available for election officials.",
+            "Date": "August 22, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-28i.jpg",
+            "Category": "Election Integrity"
+        },
+    
+        
+        {
+            "Title": "Community Building Initiatives",
+            "Description": "New initiatives are being launched to build stronger communities.",
+            "Date": "August 7, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-239.jpg",
+            "Category": "Strengthening Communities"
+        },
+        {
+            "Title": "Supporting Local Volunteer Programs",
+            "Description": "Programs to support local volunteer efforts are now available.",
+            "Date": "August 11, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-6.jpg",
+            "Category": "Strengthening Communities"
+        },
+        {
+            "Title": "New Resources for Community Development",
+            "Description": "Additional resources are being provided for community development.",
+            "Date": "August 16, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-60.jpg",
+            "Category": "Strengthening Communities"
+        },
+        {
+            "Title": "Promoting Inclusivity in Communities",
+            "Description": "Efforts are being made to promote inclusivity in communities.",
+            "Date": "August 19, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-196.jpg",
+            "Category": "Strengthening Communities"
+        },
+        {
+            "Title": "Community Partnerships for Growth",
+            "Description": "Partnerships are being formed to foster community growth.",
+            "Date": "August 23, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-226.jpg",
+            "Category": "Strengthening Communities"
+        },
+    
+    
+        {
+            "Title": "New Initiatives for Diversity and Inclusion",
+            "Description": "We are launching new initiatives to promote diversity and inclusion.",
+            "Date": "August 9, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-170.jpg",
+            "Category": "Diversity and Inclusion"
+        },
+        {
+            "Title": "Diversity Training Programs",
+            "Description": "New training programs are being introduced to support diversity.",
+            "Date": "August 12, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-289.jpg",
+            "Category": "Diversity and Inclusion"
+        },
+        {
+            "Title": "Celebrating Cultural Diversity",
+            "Description": "Events are being held to celebrate cultural diversity in the workplace.",
+            "Date": "August 15, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-256.jpg",
+            "Category": "Diversity and Inclusion"
+        },
+        {
+            "Title": "New Policies for Inclusive Workplaces",
+            "Description": "Policies are being introduced to create more inclusive workplaces.",
+            "Date": "August 18, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-198.jpg",
+            "Category": "Diversity and Inclusion"
+        },
+        {
+            "Title": "Promoting Gender Equality",
+            "Description": "Initiatives are being launched to promote gender equality in our company.",
+            "Date": "August 22, 2024",
+            "MediaType": "image",
+            "MediaURL": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-103.jpg",
+            "Category": "Diversity and Inclusion"
+        }
+    
+
+
+]

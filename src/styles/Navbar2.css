@@ -1,0 +1,206 @@
+/* Base styles for mobile-first approach */
+.navbar2 {
+    background-color: #ffffff !important; /* Navbar background */
+    height: auto; /* Adjust based on content */
+    font-family: 'Optimistic Text', sans-serif;
+    border-bottom: 1px solid #00000024;
+    color: #000;
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: space-between; /* Space between logo and right side items */
+    align-items: center; /* Align items vertically in the center */
+    padding: 0 1rem; /* Add padding to ensure content doesn’t touch edges */
+    box-sizing: border-box; /* Include padding in element's total width and height */
+}
+
+.navbar-logo2 {
+    height: 35px; /* Logo size */
+    width: auto; /* Maintain aspect ratio */
+}
+
+.navbar-nav2 {
+    display: flex;
+    flex-direction: row; /* Align items horizontally */
+    align-items: center; /* Align items vertically in the center */
+    margin: 0; /* Remove margin for better alignment */
+}
+
+.navbar-nav2 .nav-item2 {
+    margin: 0 0.5rem; /* Space between items */
+}
+
+.nav-support-search2 {
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+    gap: 1rem; /* Space between search and cart */
+}
+
+.nav-support-search2 .search-icon2 {
+    font-size: 1.25rem; /* Adjust size of search icon */
+}
+
+/* Card Styles */
+.dropdown-card2 {
+    position: fixed;
+    top: 6rem; /* Space from the top */
+    left: 0;
+    width: 100vw;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1050;
+    border-top: 1px solid #0000001b;
+    padding: 1rem;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    display: none; /* Hidden by default */
+    box-sizing: border-box; /* Include padding in element's total width */
+}
+
+.dropdown-card2.show {
+    display: block; /* Show when active */
+}
+
+/* Caret styles */
+.caret2 {
+    display: inline-block;
+    margin-left: 0.5rem;
+    font-size: 1rem;
+    color: #007bff;
+    transition: transform 0.3s ease;
+}
+
+.caret-down2 {
+    transform: rotate(0deg);
+}
+
+.caret-up2 {
+    transform: rotate(180deg);
+}
+
+/* Dropdown content styles */
+.dropdown-content2 {
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping on smaller screens */
+    gap: 2rem; /* Space between batches */
+    width: 100%; /* Ensure it uses full width */
+    box-sizing: border-box; /* Include padding in element's total width */
+}
+
+.dropdown-batch2 {
+    flex: 1;
+    min-width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.dropdown-batch2 h5 {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: start;
+}
+
+.dropdown-batch2 ul {
+    list-style: none;
+    padding: 0;
+    text-align: start;
+}
+
+.dropdown-batch2 li {
+    margin-bottom: 0.5rem;
+    font-size: 14px;
+    text-align: start;
+}
+
+.dropdown-batch2 .dropdown-image2 {
+    width: 40%;
+    height: auto;
+}
+
+/* Toggler styles */
+.navbar-toggler-custom2 {
+    border-color: #007bff; /* Custom toggler border color */
+}
+
+.navbar-toggler-icon2 {
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"%3E%3Cpath stroke="currentColor" stroke-width="2" d="M5 7h20M5 15h20M5 23h20" /%3E%3C/svg%3E');
+}
+
+/* Search icon styles */
+.search-icon2 {
+    color: #000;
+    font-size: 1.25rem;
+}
+
+.search-icon2:hover {
+    color: #007bff;
+}
+
+/* Media queries for larger screens */
+@media (min-width: 576px) {
+    .navbar-nav2 {
+        gap: 1rem; /* Adjust space between items */
+    }
+}
+
+@media (min-width: 768px) {
+    .navbar-nav2 {
+        gap: 1.5rem; /* Adjust space between items */
+    }
+}
+
+@media (min-width: 992px) {
+    .navbar2 {
+        height: 6rem;
+    }
+
+    .navbar-logo2 {
+        margin-left: 0; /* Adjust margin */
+    }
+
+    .nav-support-search2 {
+        gap: 2rem; /* Increase space between search and cart */
+        margin: 0; /* Remove margin */
+    }
+}
+/* Base styles for dropdown card */
+.dropdown-card2 {
+    position: fixed;
+    top: 6rem; /* Space from the top */
+    left: 0;
+    width: 100vw;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1050;
+    border-top: 1px solid #0000001b;
+    padding: 1rem;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    display: none; /* Hidden by default */
+  }
+  
+  .dropdown-card2.show {
+    display: block; /* Show when active */
+  }
+  
+  .dropdown-content2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .dropdown-column {
+    flex: 1;
+    min-width: 200px;
+  }
+  
+  .dropdown-column ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .dropdown-column li {
+    margin-bottom: 0.5rem;
+    font-size: 16px;
+  }
+  

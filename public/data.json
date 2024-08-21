@@ -1,0 +1,1788 @@
+{
+    "Shop Meta Quest": {
+        "title": "Shop Meta Quest",
+        "description": "Discover and shop for Meta Quest devices and accessories.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-1.jpg", "title": "Meta Quest 1", "description": "Explore the Meta Quest 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-2.jpg", "title": "Meta Quest 2", "description": "Explore the Meta Quest 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-3.jpg", "title": "Meta Quest 3", "description": "Explore the Meta Quest 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-4.jpg", "title": "Meta Quest 4", "description": "Explore the Meta Quest 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-5.jpg", "title": "Meta Quest 5", "description": "Explore the Meta Quest 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-6.jpg", "title": "Meta Quest 6", "description": "Explore the Meta Quest 6." }
+        ]
+    },
+    "Refurbished Meta Quest 2": {
+        "title": "Refurbished Meta Quest 2",
+        "description": "Browse refurbished Meta Quest 2 devices at discounted prices.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-7.jpg", "title": "Refurbished Meta Quest 2 - 1", "description": "Refurbished Meta Quest 2 - Model 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-8.jpg", "title": "Refurbished Meta Quest 2 - 2", "description": "Refurbished Meta Quest 2 - Model 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-9.jpg", "title": "Refurbished Meta Quest 2 - 3", "description": "Refurbished Meta Quest 2 - Model 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-10.jpg", "title": "Refurbished Meta Quest 2 - 4", "description": "Refurbished Meta Quest 2 - Model 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-11.jpg", "title": "Refurbished Meta Quest 2 - 5", "description": "Refurbished Meta Quest 2 - Model 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-12.jpg", "title": "Refurbished Meta Quest 2 - 6", "description": "Refurbished Meta Quest 2 - Model 6." }
+        ]
+    },
+    "VR for Good": {
+        "title": "VR for Good",
+        "description": "Learn about how VR technology is being used for positive social impact and community support.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-13.jpg", "title": "Project 1", "description": "Description of VR for Good Project 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-14.jpg", "title": "Project 2", "description": "Description of VR for Good Project 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-15.jpg", "title": "Project 3", "description": "Description of VR for Good Project 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-16.jpg", "title": "Project 4", "description": "Description of VR for Good Project 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-17.jpg", "title": "Project 5", "description": "Description of VR for Good Project 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-18.jpg", "title": "Project 6", "description": "Description of VR for Good Project 6." }
+        ]
+    },
+    "Forums": {
+        "title": "Forums",
+        "description": "Join discussions and engage with the community on various topics.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-19.jpg", "title": "Forum 1", "description": "Discussion topic 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-20.jpg", "title": "Forum 2", "description": "Discussion topic 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-21.jpg", "title": "Forum 3", "description": "Discussion topic 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-22.jpg", "title": "Forum 4", "description": "Discussion topic 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-23.jpg", "title": "Forum 5", "description": "Discussion topic 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-24.jpg", "title": "Forum 6", "description": "Discussion topic 6." }
+        ]
+    },
+    "Referrals": {
+        "title": "Referrals",
+        "description": "Refer friends and earn rewards.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-25.jpg", "title": "Referral Program 1", "description": "Details about referral program 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-26.jpg", "title": "Referral Program 2", "description": "Details about referral program 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-27.jpg", "title": "Referral Program 3", "description": "Details about referral program 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-28.jpg", "title": "Referral Program 4", "description": "Details about referral program 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-29.jpg", "title": "Referral Program 5", "description": "Details about referral program 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-30.jpg", "title": "Referral Program 6", "description": "Details about referral program 6." }
+        ]
+    },
+    "Blog": {
+        "title": "Blog",
+        "description": "Read the latest updates and articles on our blog.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-31.jpg", "title": "Blog Post 1", "description": "Summary of blog post 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-32.jpg", "title": "Blog Post 2", "description": "Summary of blog post 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-33.jpg", "title": "Blog Post 3", "description": "Summary of blog post 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-34.jpg", "title": "Blog Post 4", "description": "Summary of blog post 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-35.jpg", "title": "Blog Post 5", "description": "Summary of blog post 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-36.jpg", "title": "Blog Post 6", "description": "Summary of blog post 6." }
+        ]
+    },
+    "Creators": {
+        "title": "Creators",
+        "description": "Meet and follow our featured creators.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-37.jpg", "title": "Creator 1", "description": "Profile of creator 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-38.jpg", "title": "Creator 2", "description": "Profile of creator 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-39.jpg", "title": "Creator 3", "description": "Profile of creator 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-40.jpg", "title": "Creator 4", "description": "Profile of creator 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-41.jpg", "title": "Creator 5", "description": "Profile of creator 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-42.jpg", "title": "Creator 6", "description": "Profile of creator 6." }
+        ]
+    },
+    "Download SDKs": {
+        "title": "Download SDKs",
+        "description": "Access and download software development kits (SDKs) for your projects.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-43.jpg", "title": "SDK 1", "description": "SDK 1 details." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-44.jpg", "title": "SDK 2", "description": "SDK 2 details." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-45.jpg", "title": "SDK 3", "description": "SDK 3 details." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-46.jpg", "title": "SDK 4", "description": "SDK 4 details." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-47.jpg", "title": "SDK 5", "description": "SDK 5 details." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-48.jpg", "title": "SDK 6", "description": "SDK 6 details." }
+        ]
+    },
+    "Developers": {
+        "title": "Developers",
+        "description": "Resources and tools for developers working with our platform.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-49.jpg", "title": "Developer Resource 1", "description": "Details about developer resource 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-50.jpg", "title": "Developer Resource 2", "description": "Details about developer resource 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-51.jpg", "title": "Developer Resource 3", "description": "Details about developer resource 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-52.jpg", "title": "Developer Resource 4", "description": "Details about developer resource 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-53.jpg", "title": "Developer Resource 5", "description": "Details about developer resource 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-54.jpg", "title": "Developer Resource 6", "description": "Details about developer resource 6." }
+        ]
+    },
+    "Made for Meta partner program": {
+        "title": "Made for Meta Partner Program",
+        "description": "Learn about our partner program and how to join.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-55.jpg", "title": "Partner Program 1", "description": "Details about partner program 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-56.jpg", "title": "Partner Program 2", "description": "Details about partner program 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-57.jpg", "title": "Partner Program 3", "description": "Details about partner program 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-58.jpg", "title": "Partner Program 4", "description": "Details about partner program 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-59.jpg", "title": "Partner Program 5", "description": "Details about partner program 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-60.jpg", "title": "Partner Program 6", "description": "Details about partner program 6." }
+        ]
+    },
+    "Meta Quest health & safety information": {
+        "title": "Meta Quest Health & Safety Information",
+        "description": "Important health and safety information for Meta Quest users.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-61.jpg", "title": "Health & Safety 1", "description": "Health & safety info 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-62.jpg", "title": "Health & Safety 2", "description": "Health & safety info 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-63.jpg", "title": "Health & Safety 3", "description": "Health & safety info 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-64.jpg", "title": "Health & Safety 4", "description": "Health & safety info 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-65.jpg", "title": "Health & Safety 5", "description": "Health & safety info 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-66.jpg", "title": "Health & Safety 6", "description": "Health & safety info 6." }
+        ]
+    },
+    "Meta Quest safety center": {
+        "title": "Meta Quest Safety Center",
+        "description": "Access safety resources and support for Meta Quest.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-67.jpg", "title": "Safety Center 1", "description": "Safety resources 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-68.jpg", "title": "Safety Center 2", "description": "Safety resources 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-69.jpg", "title": "Safety Center 3", "description": "Safety resources 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-70.jpg", "title": "Safety Center 4", "description": "Safety resources 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-71.jpg", "title": "Safety Center 5", "description": "Safety resources 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-72.jpg", "title": "Safety Center 6", "description": "Safety resources 6." }
+        ]
+    },
+    "VR for work": {
+        "title": "VR for Work",
+        "description": "Explore how VR can be used in professional environments and workflows.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-73.jpg", "title": "VR for Work 1", "description": "Application of VR in work 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-74.jpg", "title": "VR for Work 2", "description": "Application of VR in work 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-75.jpg", "title": "VR for Work 3", "description": "Application of VR in work 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-76.jpg", "title": "VR for Work 4", "description": "Application of VR in work 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-77.jpg", "title": "VR for Work 5", "description": "Application of VR in work 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-78.jpg", "title": "VR for Work 6", "description": "Application of VR in work 6." }
+        ]
+    },
+    "Shop Ray-Ban Stories": {
+        "title": "Shop Ray-Ban Stories",
+        "description": "Explore and shop the latest Ray-Ban Stories smart glasses.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-79.jpg", "title": "Ray-Ban Stories 1", "description": "Latest Ray-Ban Stories model 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-80.jpg", "title": "Ray-Ban Stories 2", "description": "Latest Ray-Ban Stories model 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-81.jpg", "title": "Ray-Ban Stories 3", "description": "Latest Ray-Ban Stories model 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-82.jpg", "title": "Ray-Ban Stories 4", "description": "Latest Ray-Ban Stories model 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-83.jpg", "title": "Ray-Ban Stories 5", "description": "Latest Ray-Ban Stories model 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-84.jpg", "title": "Ray-Ban Stories 6", "description": "Latest Ray-Ban Stories model 6." }
+        ]
+    },
+    "Privacy information": {
+        "title": "Privacy Information",
+        "description": "Understand how we handle and protect your privacy.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-85.jpg", "title": "Privacy Policy 1", "description": "Overview of privacy practices 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-86.jpg", "title": "Privacy Policy 2", "description": "Overview of privacy practices 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-87.jpg", "title": "Privacy Policy 3", "description": "Overview of privacy practices 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-88.jpg", "title": "Privacy Policy 4", "description": "Overview of privacy practices 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-89.jpg", "title": "Privacy Policy 5", "description": "Overview of privacy practices 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-90.jpg", "title": "Privacy Policy 6", "description": "Overview of privacy practices 6." }
+        ]
+    },
+    "Terms of service": {
+        "title": "Terms of Service",
+        "description": "Read and understand our terms of service.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-91.jpg", "title": "Terms of Service 1", "description": "Details of terms of service 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-92.jpg", "title": "Terms of Service 2", "description": "Details of terms of service 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-93.jpg", "title": "Terms of Service 3", "description": "Details of terms of service 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-94.jpg", "title": "Terms of Service 4", "description": "Details of terms of service 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-95.jpg", "title": "Terms of Service 5", "description": "Details of terms of service 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-96.jpg", "title": "Terms of Service 6", "description": "Details of terms of service 6." }
+        ]
+    },
+    "Data policy": {
+        "title": "Data Policy",
+        "description": "Understand how your data is used and protected.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-97.jpg", "title": "Data Policy 1", "description": "Overview of data policy 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-98.jpg", "title": "Data Policy 2", "description": "Overview of data policy 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-99.jpg", "title": "Data Policy 3", "description": "Overview of data policy 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-100.jpg", "title": "Data Policy 4", "description": "Overview of data policy 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-101.jpg", "title": "Data Policy 5", "description": "Overview of data policy 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-102.jpg", "title": "Data Policy 6", "description": "Overview of data policy 6." }
+        ]
+    },
+    "Supported countries": {
+        "title": "Supported Countries",
+        "description": "Find out which countries support our products and services.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-103.jpg", "title": "Supported Country 1", "description": "Country details 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-104.jpg", "title": "Supported Country 2", "description": "Country details 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-105.jpg", "title": "Supported Country 3", "description": "Country details 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-106.jpg", "title": "Supported Country 4", "description": "Country details 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-107.jpg", "title": "Supported Country 5", "description": "Country details 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-108.jpg", "title": "Supported Country 6", "description": "Country details 6." }
+        ]
+    },
+    "Shop Help Center": {
+        "title": "Shop Help Center",
+        "description": "Get assistance with shopping, orders, and product information.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-109.jpg", "title": "Help Center 1", "description": "Overview of shopping help center 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-110.jpg", "title": "Help Center 2", "description": "Overview of shopping help center 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-111.jpg", "title": "Help Center 3", "description": "Overview of shopping help center 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-112.jpg", "title": "Help Center 4", "description": "Overview of shopping help center 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-113.jpg", "title": "Help Center 5", "description": "Overview of shopping help center 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-114.jpg", "title": "Help Center 6", "description": "Overview of shopping help center 6." }
+        ]
+    },
+    "Order status": {
+        "title": "Order Status",
+        "description": "Check the current status of your orders and recent purchases.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-115.jpg", "title": "Order Status 1", "description": "Details of order status 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-116.jpg", "title": "Order Status 2", "description": "Details of order status 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-117.jpg", "title": "Order Status 3", "description": "Details of order status 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-118.jpg", "title": "Order Status 4", "description": "Details of order status 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-119.jpg", "title": "Order Status 5", "description": "Details of order status 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-120.jpg", "title": "Order Status 6", "description": "Details of order status 6." }
+        ]
+    },
+    "Returns": {
+        "title": "Returns",
+        "description": "Learn about our return policies and how to initiate a return.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-121.jpg", "title": "Return Policy 1", "description": "Overview of return policy 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-122.jpg", "title": "Return Policy 2", "description": "Overview of return policy 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-123.jpg", "title": "Return Policy 3", "description": "Overview of return policy 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-124.jpg", "title": "Return Policy 4", "description": "Overview of return policy 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-125.jpg", "title": "Return Policy 5", "description": "Overview of return policy 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-126.jpg", "title": "Return Policy 6", "description": "Overview of return policy 6." }
+        ]
+    },
+    "Find a product demo": {
+        "title": "Find a Product Demo",
+        "description": "Locate a demo of our products near you or online.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-127.jpg", "title": "Product Demo 1", "description": "Details about product demo 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-128.jpg", "title": "Product Demo 2", "description": "Details about product demo 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-129.jpg", "title": "Product Demo 3", "description": "Details about product demo 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-130.jpg", "title": "Product Demo 4", "description": "Details about product demo 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-131.jpg", "title": "Product Demo 5", "description": "Details about product demo 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-132.jpg", "title": "Product Demo 6", "description": "Details about product demo 6." }
+        ]
+    },
+    "Legal": {
+        "title": "Legal",
+        "description": "Access legal information and resources related to our services.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-133.jpg", "title": "Legal Info 1", "description": "Overview of legal information 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-134.jpg", "title": "Legal Info 2", "description": "Overview of legal information 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-135.jpg", "title": "Legal Info 3", "description": "Overview of legal information 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-136.jpg", "title": "Legal Info 4", "description": "Overview of legal information 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-137.jpg", "title": "Legal Info 5", "description": "Overview of legal information 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-138.jpg", "title": "Legal Info 6", "description": "Overview of legal information 6." }
+        ]
+    },
+    "Facebook Help Center": {
+        "title": "Facebook Help Center",
+        "description": "Get help and find answers to common questions about Facebook.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-139.jpg", "title": "Facebook Help 1", "description": "Overview of Facebook help center 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-140.jpg", "title": "Facebook Help 2", "description": "Overview of Facebook help center 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-141.jpg", "title": "Facebook Help 3", "description": "Overview of Facebook help center 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-142.jpg", "title": "Facebook Help 4", "description": "Overview of Facebook help center 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-143.jpg", "title": "Facebook Help 5", "description": "Overview of Facebook help center 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-144.jpg", "title": "Facebook Help 6", "description": "Overview of Facebook help center 6." }
+        ]
+    },
+    
+        "Messenger Help Center": {
+            "title": "Messenger Help Center",
+            "description": "Find support and resources for using Facebook Messenger.",
+            "items": [
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-145.jpg", "title": "Messenger Help 1", "description": "Overview of Messenger help center 1." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-146.jpg", "title": "Messenger Help 2", "description": "Overview of Messenger help center 2." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-147.jpg", "title": "Messenger Help 3", "description": "Overview of Messenger help center 3." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-148.jpg", "title": "Messenger Help 4", "description": "Overview of Messenger help center 4." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-149.jpg", "title": "Messenger Help 5", "description": "Overview of Messenger help center 5." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-150.jpg", "title": "Messenger Help 6", "description": "Overview of Messenger help center 6." }
+            ]
+        },
+        "Instagram Help Center": {
+            "title": "Instagram Help Center",
+            "description": "Get support and find answers to questions about Instagram.",
+            "items": [
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-151.jpg", "title": "Instagram Help 1", "description": "Overview of Instagram help center 1." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-152.jpg", "title": "Instagram Help 2", "description": "Overview of Instagram help center 2." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-153.jpg", "title": "Instagram Help 3", "description": "Overview of Instagram help center 3." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-154.jpg", "title": "Instagram Help 4", "description": "Overview of Instagram help center 4." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-155.jpg", "title": "Instagram Help 5", "description": "Overview of Instagram help center 5." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-156.jpg", "title": "Instagram Help 6", "description": "Overview of Instagram help center 6." }
+            ]
+        },
+        "WhatsApp Help Center": {
+            "title": "WhatsApp Help Center",
+            "description": "Get assistance and find resources for using WhatsApp.",
+            "items": [
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-157.jpg", "title": "WhatsApp Help 1", "description": "Overview of WhatsApp help center 1." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-158.jpg", "title": "WhatsApp Help 2", "description": "Overview of WhatsApp help center 2." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-159.jpg", "title": "WhatsApp Help 3", "description": "Overview of WhatsApp help center 3." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-160.jpg", "title": "WhatsApp Help 4", "description": "Overview of WhatsApp help center 4." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-161.jpg", "title": "WhatsApp Help 5", "description": "Overview of WhatsApp help center 5." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-162.jpg", "title": "WhatsApp Help 6", "description": "Overview of WhatsApp help center 6." }
+            ]
+        },
+        "Workplace Help Center": {
+            "title": "Workplace Help Center",
+            "description": "Find support and resources for using Workplace by Facebook.",
+            "items": [
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-163.jpg", "title": "Workplace Help 1", "description": "Overview of Workplace help center 1." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-164.jpg", "title": "Workplace Help 2", "description": "Overview of Workplace help center 2." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-165.jpg", "title": "Workplace Help 3", "description": "Overview of Workplace help center 3." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-166.jpg", "title": "Workplace Help 4", "description": "Overview of Workplace help center 4." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-167.jpg", "title": "Workplace Help 5", "description": "Overview of Workplace help center 5." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-168.jpg", "title": "Workplace Help 6", "description": "Overview of Workplace help center 6." }
+            ]
+        },
+        "Meta Quest": {
+            "title": "Meta Quest",
+            "description": "Discover the Meta Quest VR headsets and accessories.",
+            "items": [
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-169.jpg", "title": "Meta Quest 1", "description": "Overview of Meta Quest headset 1." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-170.jpg", "title": "Meta Quest 2", "description": "Overview of Meta Quest headset 2." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-171.jpg", "title": "Meta Quest 3", "description": "Overview of Meta Quest headset 3." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-172.jpg", "title": "Meta Quest 4", "description": "Overview of Meta Quest headset 4." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-173.jpg", "title": "Meta Quest 5", "description": "Overview of Meta Quest headset 5." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-174.jpg", "title": "Meta Quest 6", "description": "Overview of Meta Quest headset 6." }
+            ]
+        },
+        "Meta Verified": {
+            "title": "Meta Verified",
+            "description": "Explore Meta's verified badge program and its benefits.",
+            "items": [
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-175.jpg", "title": "Meta Verified 1", "description": "Overview of Meta Verified program 1." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-176.jpg", "title": "Meta Verified 2", "description": "Overview of Meta Verified program 2." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-177.jpg", "title": "Meta Verified 3", "description": "Overview of Meta Verified program 3." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-178.jpg", "title": "Meta Verified 4", "description": "Overview of Meta Verified program 4." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-179.jpg", "title": "Meta Verified 5", "description": "Overview of Meta Verified program 5." },
+                { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-180.jpg", "title": "Meta Verified 6", "description": "Overview of Meta Verified program 6." }
+            ]
+        },
+
+        "About Meta": {
+        "title": "About Meta",
+        "description": "Learn more about Meta, our mission, and what we stand for.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-181.jpg", "title": "About Meta 1", "description": "Overview of Meta's mission 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-182.jpg", "title": "About Meta 2", "description": "Overview of Meta's mission 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-183.jpg", "title": "About Meta 3", "description": "Overview of Meta's mission 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-184.jpg", "title": "About Meta 4", "description": "Overview of Meta's mission 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-185.jpg", "title": "About Meta 5", "description": "Overview of Meta's mission 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-186.jpg", "title": "About Meta 6", "description": "Overview of Meta's mission 6." }
+        ]
+    },
+    "Media gallery": {
+        "title": "Media gallery",
+        "description": "Explore Meta's collection of media and press resources.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-187.jpg", "title": "Media Gallery 1", "description": "Overview of Meta's media gallery 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-188.jpg", "title": "Media Gallery 2", "description": "Overview of Meta's media gallery 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-189.jpg", "title": "Media Gallery 3", "description": "Overview of Meta's media gallery 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-190.jpg", "title": "Media Gallery 4", "description": "Overview of Meta's media gallery 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-191.jpg", "title": "Media Gallery 5", "description": "Overview of Meta's media gallery 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-192.jpg", "title": "Media Gallery 6", "description": "Overview of Meta's media gallery 6." }
+        ]
+    },
+    "Brand resources": {
+        "title": "Brand resources",
+        "description": "Access Meta's official brand guidelines and assets.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-193.jpg", "title": "Brand Resources 1", "description": "Overview of Meta's brand resources 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-194.jpg", "title": "Brand Resources 2", "description": "Overview of Meta's brand resources 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-195.jpg", "title": "Brand Resources 3", "description": "Overview of Meta's brand resources 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-196.jpg", "title": "Brand Resources 4", "description": "Overview of Meta's brand resources 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-197.jpg", "title": "Brand Resources 5", "description": "Overview of Meta's brand resources 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-198.jpg", "title": "Brand Resources 6", "description": "Overview of Meta's brand resources 6." }
+        ]
+    },
+    "For investors": {
+        "title": "For investors",
+        "description": "Find financial reports, stock information, and investor resources.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-199.jpg", "title": "For Investors 1", "description": "Overview of Meta's investor resources 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-200.jpg", "title": "For Investors 2", "description": "Overview of Meta's investor resources 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-1.jpg", "title": "For Investors 3", "description": "Overview of Meta's investor resources 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-2.jpg", "title": "For Investors 4", "description": "Overview of Meta's investor resources 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-3.jpg", "title": "For Investors 5", "description": "Overview of Meta's investor resources 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-4.jpg", "title": "For Investors 6", "description": "Overview of Meta's investor resources 6." }
+        ]
+    },
+    "Support SMB": {
+        "title": "Support SMB",
+        "description": "Learn how Meta supports small and medium-sized businesses.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-5.jpg", "title": "Support SMB 1", "description": "Overview of Meta's support for SMBs 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-6.jpg", "title": "Support SMB 2", "description": "Overview of Meta's support for SMBs 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-7.jpg", "title": "Support SMB 3", "description": "Overview of Meta's support for SMBs 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-8.jpg", "title": "Support SMB 4", "description": "Overview of Meta's support for SMBs 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-9.jpg", "title": "Support SMB 5", "description": "Overview of Meta's support for SMBs 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-10.jpg", "title": "Support SMB 6", "description": "Overview of Meta's support for SMBs 6." }
+        ]
+    },
+    "Giving together": {
+        "title": "Giving together",
+        "description": "Discover Meta's initiatives for community giving and support.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-11.jpg", "title": "Giving Together 1", "description": "Overview of Meta's giving initiatives 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-12.jpg", "title": "Giving Together 2", "description": "Overview of Meta's giving initiatives 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-13.jpg", "title": "Giving Together 3", "description": "Overview of Meta's giving initiatives 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-14.jpg", "title": "Giving Together 4", "description": "Overview of Meta's giving initiatives 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-15.jpg", "title": "Giving Together 5", "description": "Overview of Meta's giving initiatives 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-16.jpg", "title": "Giving Together 6", "description": "Overview of Meta's giving initiatives 6." }
+        ]
+    },
+    "Social impact": {
+        "title": "Social impact",
+        "description": "Explore how Meta is making a positive social impact worldwide.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-17.jpg", "title": "Social Impact 1", "description": "Overview of Meta's social impact initiatives 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-18.jpg", "title": "Social Impact 2", "description": "Overview of Meta's social impact initiatives 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-19.jpg", "title": "Social Impact 3", "description": "Overview of Meta's social impact initiatives 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-20.jpg", "title": "Social Impact 4", "description": "Overview of Meta's social impact initiatives 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-21.jpg", "title": "Social Impact 5", "description": "Overview of Meta's social impact initiatives 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-22.jpg", "title": "Social Impact 6", "description": "Overview of Meta's social impact initiatives 6." }
+        ]
+    },
+    "Business and community growth": {
+        "title": "Business and community growth",
+        "description": "Find out how Meta helps businesses and communities grow.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-23.jpg", "title": "Business Growth 1", "description": "Overview of Meta's business and community growth 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-24.jpg", "title": "Business Growth 2", "description": "Overview of Meta's business and community growth 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-25.jpg", "title": "Business Growth 3", "description": "Overview of Meta's business and community growth 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-26.jpg", "title": "Business Growth 4", "description": "Overview of Meta's business and community growth 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-27.jpg", "title": "Business Growth 5", "description": "Overview of Meta's business and community growth 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-28.jpg", "title": "Business Growth 6", "description": "Overview of Meta's business and community growth 6." }
+        ]
+    },
+      "VR for Good": {
+        "title": "VR for Good",
+        "description": "Explore how Meta is using VR to create positive social change.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-29.jpg", "title": "VR for Good 1", "description": "Overview of VR for Good initiative 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-30.jpg", "title": "VR for Good 2", "description": "Overview of VR for Good initiative 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-31.jpg", "title": "VR for Good 3", "description": "Overview of VR for Good initiative 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-32.jpg", "title": "VR for Good 4", "description": "Overview of VR for Good initiative 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-33.jpg", "title": "VR for Good 5", "description": "Overview of VR for Good initiative 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-34.jpg", "title": "VR for Good 6", "description": "Overview of VR for Good initiative 6." }
+        ]
+    },
+    "Data and privacy": {
+        "title": "Data and Privacy",
+        "description": "Learn about how Meta handles data and ensures privacy for its users.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-35.jpg", "title": "Data Privacy 1", "description": "Overview of Meta's data privacy practices 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-36.jpg", "title": "Data Privacy 2", "description": "Overview of Meta's data privacy practices 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-37.jpg", "title": "Data Privacy 3", "description": "Overview of Meta's data privacy practices 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-38.jpg", "title": "Data Privacy 4", "description": "Overview of Meta's data privacy practices 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-39.jpg", "title": "Data Privacy 5", "description": "Overview of Meta's data privacy practices 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-40.jpg", "title": "Data Privacy 6", "description": "Overview of Meta's data privacy practices 6." }
+        ]
+    },
+    "Safety and expression": {
+        "title": "Safety and Expression",
+        "description": "Explore how Meta ensures safety and freedom of expression on its platforms.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-41.jpg", "title": "Safety and Expression 1", "description": "Overview of Meta's safety and expression policies 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-42.jpg", "title": "Safety and Expression 2", "description": "Overview of Meta's safety and expression policies 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-43.jpg", "title": "Safety and Expression 3", "description": "Overview of Meta's safety and expression policies 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-44.jpg", "title": "Safety and Expression 4", "description": "Overview of Meta's safety and expression policies 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-45.jpg", "title": "Safety and Expression 5", "description": "Overview of Meta's safety and expression policies 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-46.jpg", "title": "Safety and Expression 6", "description": "Overview of Meta's safety and expression policies 6." }
+        ]
+    },
+    "Elections": {
+        "title": "Elections",
+        "description": "Discover Meta's role and initiatives in ensuring fair and transparent elections.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-47.jpg", "title": "Elections 1", "description": "Overview of Meta's election-related initiatives 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-48.jpg", "title": "Elections 2", "description": "Overview of Meta's election-related initiatives 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-49.jpg", "title": "Elections 3", "description": "Overview of Meta's election-related initiatives 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-50.jpg", "title": "Elections 4", "description": "Overview of Meta's election-related initiatives 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-51.jpg", "title": "Elections 5", "description": "Overview of Meta's election-related initiatives 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-52.jpg", "title": "Elections 6", "description": "Overview of Meta's election-related initiatives 6." }
+        ]
+    },
+    "COVID-19 response": {
+        "title": "COVID-19 Response",
+        "description": "Learn about Meta's actions and initiatives during the COVID-19 pandemic.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-53.jpg", "title": "COVID-19 Response 1", "description": "Overview of Meta's COVID-19 response 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-54.jpg", "title": "COVID-19 Response 2", "description": "Overview of Meta's COVID-19 response 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-55.jpg", "title": "COVID-19 Response 3", "description": "Overview of Meta's COVID-19 response 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-56.jpg", "title": "COVID-19 Response 4", "description": "Overview of Meta's COVID-19 response 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-57.jpg", "title": "COVID-19 Response 5", "description": "Overview of Meta's COVID-19 response 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-58.jpg", "title": "COVID-19 Response 6", "description": "Overview of Meta's COVID-19 response 6." }
+        ]
+    },
+    "Regulations": {
+        "title": "Regulations",
+        "description": "Understand Meta's approach to regulatory compliance and policy adherence.",
+        "items": [
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-59.jpg", "title": "Regulations 1", "description": "Overview of Meta's regulatory compliance 1." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-60.jpg", "title": "Regulations 2", "description": "Overview of Meta's regulatory compliance 2." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-61.jpg", "title": "Regulations 3", "description": "Overview of Meta's regulatory compliance 3." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-62.jpg", "title": "Regulations 4", "description": "Overview of Meta's regulatory compliance 4." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-63.jpg", "title": "Regulations 5", "description": "Overview of Meta's regulatory compliance 5." },
+            { "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-64.jpg", "title": "Regulations 6", "description": "Overview of Meta's regulatory compliance 6."}
+
+        ]
+    },
+    "Meta Quest overview": {
+        "title": "Meta Quest Overview",
+        "description": "Explore the comprehensive overview of the Meta Quest lineup, including detailed insights into each device, their features, and the technology behind them.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-1.jpg",
+                "title": "Meta Quest 3",
+                "description": "The Meta Quest 3 is the latest in immersive VR technology, offering enhanced resolution, improved performance, and a more comfortable design for extended use."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-2.jpg",
+                "title": "Meta Quest 2",
+                "description": "The Meta Quest 2 provides a fantastic VR experience with its powerful performance and wide range of compatible games and applications. It is an excellent choice for both new and experienced VR users."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-3.jpg",
+                "title": "Meta Quest Pro",
+                "description": "The Meta Quest Pro is designed for professional and high-end VR applications, offering cutting-edge technology, superior graphics, and advanced features for immersive experiences."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-4.jpg",
+                "title": "Meta Quest 4",
+                "description": "The Meta Quest 4 features enhanced graphics and a more intuitive interface for an even more immersive VR experience."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-5.jpg",
+                "title": "Meta Quest 5",
+                "description": "The Meta Quest 5 offers advanced VR capabilities with improved tracking and expanded content options."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-6.jpg",
+                "title": "Meta Quest 6",
+                "description": "The Meta Quest 6 is the latest innovation in VR technology, boasting the most advanced features and unparalleled performance."
+            }
+        ]
+    },
+    "Meta Quest 3": {
+        "title": "Meta Quest 3",
+        "description": "Dive into the world of Meta Quest 3, the latest addition to the Meta Quest lineup. Discover its features, specifications, and the unique advancements it brings to VR technology.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-1.jpg",
+                "title": "Meta Quest 3 - Front View",
+                "description": "The front view of the Meta Quest 3 showcasing its sleek design and advanced display."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-2.jpg",
+                "title": "Meta Quest 3 - Side View",
+                "description": "Side view of the Meta Quest 3 highlighting its ergonomic design and build quality."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-3.jpg",
+                "title": "Meta Quest 3 - Controllers",
+                "description": "The controllers that come with Meta Quest 3, featuring enhanced tracking and haptic feedback."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-4.jpg",
+                "title": "Meta Quest 3 - Setup",
+                "description": "The Meta Quest 3 setup process and its easy-to-use interface."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-5.jpg",
+                "title": "Meta Quest 3 - VR Experience",
+                "description": "An immersive VR experience using Meta Quest 3, demonstrating its high-resolution visuals and performance."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-6.jpg",
+                "title": "Meta Quest 3 - Accessories",
+                "description": "Accessories available for Meta Quest 3 to enhance the VR experience."
+            }
+        ]
+    },
+    "Meta Quest 2": {
+        "title": "Meta Quest 2",
+        "description": "Explore Meta Quest 2, a powerful and popular VR headset known for its performance and versatility. Learn about its key features and benefits.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-7.jpg",
+                "title": "Meta Quest 2 - Front View",
+                "description": "The front view of the Meta Quest 2 showing its sleek design and display."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-8.jpg",
+                "title": "Meta Quest 2 - Side View",
+                "description": "Side view of Meta Quest 2 highlighting its comfortable fit and build."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-9.jpg",
+                "title": "Meta Quest 2 - Controllers",
+                "description": "Controllers for Meta Quest 2, featuring intuitive design and responsive feedback."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-10.jpg",
+                "title": "Meta Quest 2 - Setup",
+                "description": "The setup process for Meta Quest 2 and its easy-to-navigate interface."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-11.jpg",
+                "title": "Meta Quest 2 - VR Experience",
+                "description": "Experiencing immersive VR with Meta Quest 2, showcasing its performance and visual quality."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-12.jpg",
+                "title": "Meta Quest 2 - Accessories",
+                "description": "Accessories available for Meta Quest 2 to enhance the VR experience."
+            }
+        ]
+    },
+    "Meta Quest Pro": {
+        "title": "Meta Quest Pro",
+        "description": "Learn about the Meta Quest Pro, a high-end VR headset designed for professionals and enthusiasts seeking the best in VR technology.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-13.jpg",
+                "title": "Meta Quest Pro - Front View",
+                "description": "The front view of the Meta Quest Pro, emphasizing its advanced features and design."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-14.jpg",
+                "title": "Meta Quest Pro - Side View",
+                "description": "Side view of the Meta Quest Pro, showcasing its premium build quality and comfort."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-15.jpg",
+                "title": "Meta Quest Pro - Controllers",
+                "description": "High-end controllers for Meta Quest Pro, designed for precision and immersion."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-16.jpg",
+                "title": "Meta Quest Pro - Setup",
+                "description": "The setup process for Meta Quest Pro, demonstrating its user-friendly interface and features."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-17.jpg",
+                "title": "Meta Quest Pro - VR Experience",
+                "description": "Experiencing high-end VR with Meta Quest Pro, highlighting its superior performance and graphics."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-18.jpg",
+                "title": "Meta Quest Pro - Accessories",
+                "description": "Accessories designed for the Meta Quest Pro to enhance its functionality and user experience."
+            }
+        ]
+    },
+    "Compare devices": {
+        "title": "Compare Devices",
+        "description": "Compare the different Meta Quest devices to find the best fit for your needs. This section provides side-by-side comparisons of specifications, features, and pricing.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-19.jpg",
+                "title": "Meta Quest 3 vs Meta Quest 2",
+                "description": "A detailed comparison between Meta Quest 3 and Meta Quest 2, highlighting differences in performance, design, and user experience."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-20.jpg",
+                "title": "Meta Quest Pro vs Meta Quest 3",
+                "description": "Compare the high-end Meta Quest Pro with the latest Meta Quest 3 to understand the advantages of each for professional and personal use."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-21.jpg",
+                "title": "Meta Quest 2 vs Meta Quest Pro",
+                "description": "Analyze the differences between the Meta Quest 2 and Meta Quest Pro, focusing on performance, features, and use cases."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-22.jpg",
+                "title": "Meta Quest 3 vs Meta Quest 4",
+                "description": "Explore how the Meta Quest 3 and Meta Quest 4 compare in terms of technological advancements, specifications, and user experience."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-23.jpg",
+                "title": "Meta Quest Pro vs Meta Quest 5",
+                "description": "Compare the Meta Quest Pro with the Meta Quest 5 to see which device offers better features and performance for various applications."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-24.jpg",
+                "title": "Meta Quest 4 vs Meta Quest 5",
+                "description": "Evaluate the differences between Meta Quest 4 and Meta Quest 5, focusing on their features, performance, and value for money."
+            }
+        ]
+    },
+    "Accessories": {
+        "title": "Accessories",
+        "description": "Discover a range of accessories designed to enhance your Meta Quest experience. From comfort and protection to additional functionality, find everything you need to complement your VR setup.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-25.jpg",
+                "title": "Comfort Accessories",
+                "description": "Explore accessories designed for enhanced comfort during long VR sessions, including head straps and padding."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-26.jpg",
+                "title": "Protective Gear",
+                "description": "Find protective gear to keep your Meta Quest devices safe from damage, including cases and lens protectors."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-27.jpg",
+                "title": "Additional Controllers",
+                "description": "Upgrade your VR setup with additional controllers for more immersive gameplay and interactions."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-28.jpg",
+                "title": "Charging Docks",
+                "description": "Keep your Meta Quest devices powered up with convenient charging docks and stations."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-29.jpg",
+                "title": "VR Headphone Accessories",
+                "description": "Enhance your audio experience with specialized VR headphone accessories designed for better sound quality and comfort."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-30.jpg",
+                "title": "Lens Cleaning Kits",
+                "description": "Maintain clear and crisp visuals with lens cleaning kits designed specifically for Meta Quest devices."
+            }
+        ]
+    },
+    "Meta Warranty Plus": {
+        "title": "Meta Warranty Plus",
+        "description": "Learn about the Meta Warranty Plus program, offering extended protection and support for your Meta Quest devices.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-31.jpg",
+                "title": "Meta Warranty Plus - Coverage",
+                "description": "Detailed information on the coverage provided by the Meta Warranty Plus program, including repair and replacement options."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-32.jpg",
+                "title": "Meta Warranty Plus - Benefits",
+                "description": "The benefits of enrolling in Meta Warranty Plus, including peace of mind and additional support."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-33.jpg",
+                "title": "Meta Warranty Plus - Enrollment",
+                "description": "How to enroll in the Meta Warranty Plus program and the steps involved in securing your device."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-34.jpg",
+                "title": "Meta Warranty Plus - Claims",
+                "description": "Information on how to file a claim under the Meta Warranty Plus program and what to expect."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-35.jpg",
+                "title": "Meta Warranty Plus - Customer Support",
+                "description": "Access to customer support resources for Meta Warranty Plus members, including contact information and service options."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-36.jpg",
+                "title": "Meta Warranty Plus - FAQs",
+                "description": "Frequently asked questions about the Meta Warranty Plus program and their answers."
+            }
+        ]
+    },
+    "Ray-Ban | Meta overview": {
+        "title": "Ray-Ban | Meta Overview",
+        "description": "Get an overview of the collaboration between Ray-Ban and Meta, exploring how classic eyewear meets cutting-edge technology.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-43.jpg",
+                "title": "Ray-Ban | Meta Collaboration",
+                "description": "An overview of the partnership between Ray-Ban and Meta, bringing together fashion and technology."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-44.jpg",
+                "title": "Ray-Ban Meta Smart Glasses - Design",
+                "description": "The design elements of Ray-Ban Meta Smart Glasses, highlighting the fusion of classic style with modern tech."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-45.jpg",
+                "title": "Ray-Ban Meta Smart Glasses - Technology",
+                "description": "The technology integrated into Ray-Ban Meta Smart Glasses, including audio and control features."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-46.jpg",
+                "title": "Ray-Ban Meta Smart Glasses - Usage Scenarios",
+                "description": "Different usage scenarios for Ray-Ban Meta Smart Glasses, from daily activities to professional applications."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-47.jpg",
+                "title": "Ray-Ban Meta Smart Glasses - Future",
+                "description": "What the future holds for Ray-Ban Meta Smart Glasses and upcoming innovations in smart eyewear."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-48.jpg",
+                "title": "Ray-Ban Meta Smart Glasses - Community",
+                "description": "The community and feedback surrounding Ray-Ban Meta Smart Glasses, showcasing user experiences and testimonials."
+            }
+        ]
+    },
+    "Shop all": {
+        "title": "Shop All",
+        "description": "Browse all available products from Meta and Ray-Ban, including VR devices, smart glasses, and accessories.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-49.jpg",
+                "title": "All Meta Quest Devices",
+                "description": "A comprehensive view of all Meta Quest devices available for purchase."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-50.jpg",
+                "title": "All Ray-Ban Meta Smart Glasses",
+                "description": "Explore all Ray-Ban Meta Smart Glasses, showcasing various models and styles."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-51.jpg",
+                "title": "All Accessories",
+                "description": "Browse through all available accessories for Meta Quest and Ray-Ban Meta Smart Glasses."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-52.jpg",
+                "title": "Special Offers",
+                "description": "Check out special offers and promotions on Meta and Ray-Ban products."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-53.jpg",
+                "title": "New Arrivals",
+                "description": "Discover the latest arrivals from Meta and Ray-Ban, including new devices and accessories."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-54.jpg",
+                "title": "Best Sellers",
+                "description": "See the best-selling products from Meta and Ray-Ban, including top-rated devices and accessories."
+            }
+        ]
+    },
+    "Wayfarer": {
+        "title": "Wayfarer",
+        "description": "Discover the iconic Wayfarer collection, featuring a classic design combined with modern technology for stylish and functional eyewear.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-55.jpg",
+                "title": "Wayfarer - Classic Black",
+                "description": "The classic black Wayfarer with a timeless design and comfortable fit, perfect for everyday wear."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-56.jpg",
+                "title": "Wayfarer - Tortoise Shell",
+                "description": "The Wayfarer in a tortoise shell pattern, combining elegance with a touch of vintage style."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-57.jpg",
+                "title": "Wayfarer - Matte Black",
+                "description": "A sleek matte black finish for the Wayfarer, offering a modern and understated look."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-58.jpg",
+                "title": "Wayfarer - Blue Gradient",
+                "description": "Wayfarer with a blue gradient lens, adding a splash of color while maintaining a classic silhouette."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-59.jpg",
+                "title": "Wayfarer - Green Lens",
+                "description": "Wayfarer featuring green-tinted lenses for a distinctive and stylish appearance."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-60.jpg",
+                "title": "Wayfarer - Limited Edition",
+                "description": "A limited edition Wayfarer model with unique design elements and exclusive features."
+            }
+        ]
+    },
+    "Headliner": {
+        "title": "Headliner",
+        "description": "Explore the Headliner collection, offering innovative eyewear designs with advanced features for a modern lifestyle.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-61.jpg",
+                "title": "Headliner - Urban Edition",
+                "description": "The Headliner Urban Edition, designed for city living with a sleek and contemporary style."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-62.jpg",
+                "title": "Headliner - Sporty Model",
+                "description": "A sporty Headliner model built for active lifestyles, featuring durable materials and a secure fit."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-63.jpg",
+                "title": "Headliner - Classic Silver",
+                "description": "A classic silver Headliner with a refined design and elegant finish."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-64.jpg",
+                "title": "Headliner - Bold Colors",
+                "description": "Headliner eyewear in bold colors for a statement look and standout style."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-65.jpg",
+                "title": "Headliner - Premium Leather",
+                "description": "Headliner with premium leather accents, combining luxury with high functionality."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-66.jpg",
+                "title": "Headliner - Special Edition",
+                "description": "A special edition Headliner model with unique design features and exclusive details."
+            }
+        ]
+    },
+    "Meta Quest": {
+        "title": "Meta Quest",
+        "description": "Explore the Meta Quest range, including the latest VR headsets and accessories designed for immersive experiences.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-1.jpg",
+                "title": "Meta Quest 3",
+                "description": "The Meta Quest 3 offers enhanced resolution, improved performance, and a comfortable design for extended use."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-2.jpg",
+                "title": "Meta Quest 2",
+                "description": "The Meta Quest 2 provides a fantastic VR experience with powerful performance and a wide range of compatible games."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-3.jpg",
+                "title": "Meta Quest Pro",
+                "description": "Designed for high-end VR applications, the Meta Quest Pro offers superior graphics and advanced features."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-4.jpg",
+                "title": "Meta Quest 4",
+                "description": "The Meta Quest 4 is the latest model with cutting-edge technology for an immersive VR experience."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-5.jpg",
+                "title": "Meta Quest 5",
+                "description": "Meta Quest 5 provides an improved VR experience with enhanced features and performance."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-6.jpg",
+                "title": "Meta Quest 6",
+                "description": "The Meta Quest 6 offers the latest in VR technology with improved comfort and functionality."
+            }
+        ]
+    },
+    "Ray-Ban | Meta": {
+        "title": "Ray-Ban | Meta",
+        "description": "Explore the collaboration between Ray-Ban and Meta, featuring innovative smart glasses that blend style with advanced technology.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-7.jpg",
+                "title": "Ray-Ban Meta - Classic Style",
+                "description": "Ray-Ban Meta smart glasses with a classic style and integrated technology for a seamless experience."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-8.jpg",
+                "title": "Ray-Ban Meta - Modern Design",
+                "description": "A modern design smart glasses from Ray-Ban Meta, combining advanced features with contemporary aesthetics."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-9.jpg",
+                "title": "Ray-Ban Meta - Sport Edition",
+                "description": "Ray-Ban Meta smart glasses with a sporty design, perfect for an active lifestyle while staying connected."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-10.jpg",
+                "title": "Ray-Ban Meta - Premium Leather",
+                "description": "Premium leather smart glasses from Ray-Ban Meta, offering both luxury and high-tech features."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-11.jpg",
+                "title": "Ray-Ban Meta - Limited Edition",
+                "description": "A limited edition Ray-Ban Meta smart glasses with exclusive design elements and advanced technology."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-12.jpg",
+                "title": "Ray-Ban Meta - Urban Edition",
+                "description": "The Urban Edition Ray-Ban Meta smart glasses with a sleek and functional design for city living."
+            }
+        ]
+    },
+    "Facebook": {
+        "title": "Facebook",
+        "description": "Stay connected with friends and family through Facebook, the world's leading social network.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-13.jpg",
+                "title": "Facebook Home",
+                "description": "Your personal space to connect, share, and stay updated with what's happening in the world."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-14.jpg",
+                "title": "Facebook News Feed",
+                "description": "Scroll through your news feed to see posts from friends, family, and trending topics."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-15.jpg",
+                "title": "Facebook Messenger",
+                "description": "Instantly message your friends and family using Facebook Messenger for real-time communication."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-16.jpg",
+                "title": "Facebook Groups",
+                "description": "Join groups of interest to connect with like-minded individuals and participate in discussions."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-17.jpg",
+                "title": "Facebook Marketplace",
+                "description": "Buy and sell items locally through Facebook Marketplace, connecting with buyers and sellers in your area."
+            }
+        ]
+    },
+    "Messenger": {
+        "title": "Messenger",
+        "description": "Messenger allows you to send messages, make calls, and stay connected with friends and family directly through Facebook.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-18.jpg",
+                "title": "Messenger Chat",
+                "description": "Chat with friends and family in real-time, share photos, videos, and more through Messenger."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-19.jpg",
+                "title": "Messenger Video Calls",
+                "description": "Make video calls to stay face-to-face with your loved ones, no matter where they are."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-20.jpg",
+                "title": "Messenger Stories",
+                "description": "Share your daily moments and view stories from friends using Messenger's story feature."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-21.jpg",
+                "title": "Messenger Emojis",
+                "description": "Express yourself with a wide range of emojis and stickers available in Messenger."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-22.jpg",
+                "title": "Messenger Group Chats",
+                "description": "Create group chats to keep in touch with multiple friends and family members at once."
+            }
+        ]
+    },
+    "Instagram": {
+        "title": "Instagram",
+        "description": "Instagram lets you share photos and videos, connect with friends, and discover content from around the world.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-23.jpg",
+                "title": "Instagram Feed",
+                "description": "Browse through your feed to see the latest posts from friends and accounts you follow."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-24.jpg",
+                "title": "Instagram Stories",
+                "description": "Share moments from your day with Instagram Stories, which disappear after 24 hours."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-25.jpg",
+                "title": "Instagram Reels",
+                "description": "Create and discover short, engaging videos with Instagram Reels."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-26.jpg",
+                "title": "Instagram Explore",
+                "description": "Explore new content, discover popular trends, and find posts tailored to your interests."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-27.jpg",
+                "title": "Instagram Direct",
+                "description": "Send direct messages to friends, share posts, and interact privately on Instagram."
+            }
+        ]
+    },
+    "WhatsApp": {
+        "title": "WhatsApp",
+        "description": "WhatsApp allows you to send messages, make calls, and share media with friends and family across the globe.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-28.jpg",
+                "title": "WhatsApp Chat",
+                "description": "Chat with your contacts, send text messages, and share files easily using WhatsApp."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-29.jpg",
+                "title": "WhatsApp Voice Calls",
+                "description": "Make high-quality voice calls to anyone in the world using WhatsApp."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-30.jpg",
+                "title": "WhatsApp Video Calls",
+                "description": "Connect face-to-face with friends and family through WhatsApp video calls."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-31.jpg",
+                "title": "WhatsApp Status",
+                "description": "Share updates with your contacts through WhatsApp Status, which disappears after 24 hours."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-32.jpg",
+                "title": "WhatsApp Groups",
+                "description": "Create groups to chat with multiple people at once and stay connected with communities."
+            }
+        ]
+    },
+    "Meta Horizon": {
+        "title": "Meta Horizon",
+        "description": "Explore Meta Horizon, a virtual reality platform offering immersive experiences and social interaction in a virtual world.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-33.jpg",
+                "title": "Meta Horizon Workrooms",
+                "description": "Virtual meeting spaces within Meta Horizon, designed for collaborative work and remote team interactions."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-34.jpg",
+                "title": "Meta Horizon Home",
+                "description": "Your virtual home within Meta Horizon, where you can personalize your space and interact with friends."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-35.jpg",
+                "title": "Meta Horizon Worlds",
+                "description": "Explore diverse worlds and create your own experiences in the Meta Horizon metaverse."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-36.jpg",
+                "title": "Meta Horizon Avatars",
+                "description": "Customize your virtual self with Meta Horizon avatars, designed for interaction and personal expression."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-37.jpg",
+                "title": "Meta Horizon Events",
+                "description": "Attend virtual events, concerts, and gatherings in Meta Horizon to connect with others in immersive ways."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-38.jpg",
+                "title": "Meta Horizon Marketplace",
+                "description": "Browse and buy virtual items, assets, and services within Meta Horizon's digital marketplace."
+            }
+        ]
+    },
+    "Work Products Overview": {
+        "title": "Work Products Overview",
+        "description": "Explore the range of work products designed to enhance productivity and collaboration in professional environments.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-39.jpg",
+                "title": "Virtual Reality Headsets",
+                "description": "Discover VR headsets designed for work, offering immersive experiences for training, meetings, and more."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-40.jpg",
+                "title": "Meta Horizon Workrooms",
+                "description": "Virtual meeting spaces within Meta Horizon for seamless remote collaboration and team interaction."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-41.jpg",
+                "title": "Workplace",
+                "description": "Tools and solutions for enhancing productivity and communication in the modern workplace."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-42.jpg",
+                "title": "Remote Collaboration Tools",
+                "description": "Solutions designed to support remote work, including communication and project management tools."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-43.jpg",
+                "title": "Productivity Software",
+                "description": "Software designed to increase productivity, including task management and workflow optimization tools."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-44.jpg",
+                "title": "Advanced Analytics",
+                "description": "Tools for analyzing and visualizing data to support decision-making and business strategy."
+            }
+        ]
+    },
+    "Who We Are": {
+        "title": "Who We Are",
+        "description": "Learn more about our company, our mission, and the team behind our innovative technologies.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-45.jpg",
+                "title": "Our Mission",
+                "description": "Discover our mission to connect people and build community through technology."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-46.jpg",
+                "title": "Our Team",
+                "description": "Meet the talented individuals who drive our company's success and innovation."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-47.jpg",
+                "title": "Company Culture",
+                "description": "Explore our company culture and the values that guide our work."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-48.jpg",
+                "title": "History",
+                "description": "Learn about our company's history and milestones throughout the years."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-49.jpg",
+                "title": "Leadership",
+                "description": "Get to know our leadership team and their roles in shaping the company's future."
+            }
+        ]
+    },
+    "Our Actions": {
+        "title": "Our Actions",
+        "description": "Find out about our initiatives, projects, and the impact we're making in the world.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-50.jpg",
+                "title": "Community Initiatives",
+                "description": "Learn about our efforts to support and engage with communities around the world."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-51.jpg",
+                "title": "Sustainability Efforts",
+                "description": "Explore our commitment to sustainability and our environmental impact reduction strategies."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-52.jpg",
+                "title": "Educational Programs",
+                "description": "Discover the educational programs and resources we offer to support learning and development."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-53.jpg",
+                "title": "Health and Safety",
+                "description": "Our commitment to health and safety for our employees and the broader community."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-54.jpg",
+                "title": "Innovation Projects",
+                "description": "Explore the cutting-edge projects and research initiatives driving our innovation."
+            }
+        ]
+    },
+    "News": {
+        "title": "News",
+        "description": "Stay updated with the latest news, announcements, and updates from our company.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-55.jpg",
+                "title": "Latest Announcements",
+                "description": "Read about our most recent announcements and company news."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-56.jpg",
+                "title": "Press Releases",
+                "description": "Access our official press releases and media statements."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-57.jpg",
+                "title": "Media Coverage",
+                "description": "See how our company is covered in the media and what the press is saying about us."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-58.jpg",
+                "title": "Events",
+                "description": "Find out about upcoming events, conferences, and webinars we are hosting or participating in."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-59.jpg",
+                "title": "Featured Stories",
+                "description": "Read in-depth stories and articles featuring our company’s achievements and innovations."
+            }
+        ]
+    },
+    "Businesses": {
+        "title": "Businesses",
+        "description": "Explore our business divisions and the sectors we operate in, including our core services and solutions.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-60.jpg",
+                "title": "Business Solutions",
+                "description": "Discover the range of solutions we offer to businesses and enterprises."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-61.jpg",
+                "title": "Partnership Opportunities",
+                "description": "Learn about partnership opportunities and how we collaborate with other businesses."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-62.jpg",
+                "title": "Client Success Stories",
+                "description": "Read success stories and case studies showcasing how our solutions have benefited our clients."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-63.jpg",
+                "title": "Industry Insights",
+                "description": "Get insights into industry trends and how our business divisions are adapting and leading the market."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-64.jpg",
+                "title": "Global Presence",
+                "description": "Explore our global business presence and the regions where we operate."
+            }
+        ]
+    },
+    "Creators": {
+        "title": "Creators",
+        "description": "Support and resources for creators using our platforms and technologies to bring their ideas to life.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-65.jpg",
+                "title": "Creator Resources",
+                "description": "Access tools and resources designed to help creators succeed on our platforms."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-66.jpg",
+                "title": "Creator Stories",
+                "description": "Read stories from successful creators and learn about their experiences."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-67.jpg",
+                "title": "Community Support",
+                "description": "Engage with the creator community and find support through forums and networks."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-68.jpg",
+                "title": "Creator Events",
+                "description": "Join events and workshops designed to support and inspire creators."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-69.jpg",
+                "title": "Monetization Opportunities",
+                "description": "Explore ways to monetize your content and build a sustainable career as a creator."
+            }
+        ]
+    },
+    "Developers": {
+        "title": "Developers",
+        "description": "Resources, tools, and support for developers building applications and services on our platforms.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-70.jpg",
+                "title": "Developer Tools",
+                "description": "Explore the tools and APIs available for developers to create innovative applications."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-71.jpg",
+                "title": "Developer Community",
+                "description": "Connect with other developers and participate in community discussions and events."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-72.jpg",
+                "title": "Technical Support",
+                "description": "Get technical support and assistance with building and troubleshooting your applications."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-73.jpg",
+                "title": "Developer Blog",
+                "description": "Stay updated with the latest news, tutorials, and insights from our developer blog."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-74.jpg",
+                "title": "API Documentation",
+                "description": "Access comprehensive documentation for our APIs and development tools."
+            }
+        ]
+    },
+    "Careers": {
+        "title": "Careers",
+        "description": "Explore career opportunities and find out what it's like to work with us.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-75.jpg",
+                "title": "Current Openings",
+                "description": "Browse our current job openings and find the right role for you."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-76.jpg",
+                "title": "Employee Benefits",
+                "description": "Learn about the benefits and perks available to our employees."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-77.jpg",
+                "title": "Company Culture",
+                "description": "Get a glimpse into our company culture and what makes us a great place to work."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-78.jpg",
+                "title": "Career Development",
+                "description": "Discover opportunities for career growth and development within our company."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-79.jpg",
+                "title": "Application Process",
+                "description": "Understand our application and hiring process to prepare for your job search."
+            }
+        ]
+    },
+    "Investors": {
+        "title": "Investors",
+        "description": "Information and resources for investors interested in our company and its financial performance.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-80.jpg",
+                "title": "Financial Reports",
+                "description": "Access our latest financial reports and performance metrics."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-81.jpg",
+                "title": "Investor Relations",
+                "description": "Get in touch with our investor relations team for any inquiries."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-82.jpg",
+                "title": "Stock Information",
+                "description": "Find information about our stock performance and market activity."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-83.jpg",
+                "title": "Annual Reports",
+                "description": "Read our annual reports to understand our yearly progress and achievements."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-84.jpg",
+                "title": "Corporate Governance",
+                "description": "Learn about our corporate governance practices and board of directors."
+            }
+        ]
+    },
+    "Media": {
+        "title": "Media",
+        "description": "Access media resources, including press kits, media contacts, and coverage of our company.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-85.jpg",
+                "title": "Press Kits",
+                "description": "Download our press kits for media resources and company information."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-86.jpg",
+                "title": "Media Contacts",
+                "description": "Find contact information for our media relations team."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-87.jpg",
+                "title": "Media Coverage",
+                "description": "Read about how our company is covered in various media outlets."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-88.jpg",
+                "title": "Media Inquiries",
+                "description": "Submit media inquiries and requests for interviews or information."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-89.jpg",
+                "title": "Press Releases",
+                "description": "Access our latest press releases and news updates."
+            }
+        ]
+    },
+    "Researchers": {
+        "title": "Researchers",
+        "description": "Find resources and information for researchers interested in our technology and innovations.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-90.jpg",
+                "title": "Research Publications",
+                "description": "Access our research publications and scientific papers on various technologies."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-91.jpg",
+                "title": "Collaborative Research",
+                "description": "Learn about opportunities for collaborative research with our teams."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-92.jpg",
+                "title": "Research Partnerships",
+                "description": "Explore partnerships and funding opportunities for research projects."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-93.jpg",
+                "title": "Technology Insights",
+                "description": "Get insights into the latest technological advancements and research areas."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-94.jpg",
+                "title": "Research News",
+                "description": "Stay updated with the latest news and developments in our research activities."
+            }
+        ]
+    },
+    "Engineers": {
+        "title": "Engineers",
+        "description": "Resources and information for engineers working on our technology and innovation projects.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-95.jpg",
+                "title": "Engineering Projects",
+                "description": "Explore the innovative engineering projects and technologies we're working on."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-96.jpg",
+                "title": "Technical Resources",
+                "description": "Access technical resources and documentation for engineers."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-97.jpg",
+                "title": "Engineering Team",
+                "description": "Meet the talented engineers behind our cutting-edge technology."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-98.jpg",
+                "title": "Engineering Culture",
+                "description": "Learn about the engineering culture and how we foster innovation and creativity."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-99.jpg",
+                "title": "Career Opportunities",
+                "description": "Find career opportunities and roles within our engineering teams."
+            }
+        ]
+    },
+    "Government, Politics & Advocacy": {
+        "title": "Government, Politics & Advocacy",
+        "description": "Explore our engagement with government bodies, political initiatives, and advocacy efforts.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-100.jpg",
+                "title": "Government Relations",
+                "description": "Learn about our interactions with government entities and public policy initiatives."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-101.jpg",
+                "title": "Political Advocacy",
+                "description": "Discover our involvement in political advocacy and policy development."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-102.jpg",
+                "title": "Public Affairs",
+                "description": "Get insights into our public affairs strategies and community engagement efforts."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-103.jpg",
+                "title": "Policy Research",
+                "description": "Explore our research and analysis on public policies and their impact on the industry."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-104.jpg",
+                "title": "Advocacy Campaigns",
+                "description": "Learn about our advocacy campaigns and efforts to drive positive change."
+            }
+        ]
+    },
+    "Find a Product": {
+        "title": "Find a Product",
+        "description": "Search for and discover the perfect Meta Quest or Ray-Ban Meta product that suits your needs.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-105.jpg",
+                "title": "Meta Quest Devices",
+                "description": "Explore the range of Meta Quest devices available for purchase."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-106.jpg",
+                "title": "Ray-Ban Meta Glasses",
+                "description": "Browse the selection of Ray-Ban Meta smart glasses and find the right model for you."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-107.jpg",
+                "title": "Accessories",
+                "description": "Discover accessories compatible with Meta Quest and Ray-Ban Meta products."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-108.jpg",
+                "title": "Product Comparison",
+                "description": "Compare features and specifications of Meta Quest and Ray-Ban Meta products to make an informed decision."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-109.jpg",
+                "title": "Product Reviews",
+                "description": "Read reviews and user feedback to help you choose the best product."
+            }
+        ]
+    },
+    "Meta Quest Support": {
+        "title": "Meta Quest Support",
+        "description": "Get support and assistance for your Meta Quest devices with our comprehensive help resources.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-110.jpg",
+                "title": "FAQs",
+                "description": "Find answers to frequently asked questions about Meta Quest devices."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-111.jpg",
+                "title": "Troubleshooting Guides",
+                "description": "Access troubleshooting guides to resolve common issues with your Meta Quest devices."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-112.jpg",
+                "title": "Contact Support",
+                "description": "Get in touch with our support team for personalized assistance."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-113.jpg",
+                "title": "Community Forums",
+                "description": "Join the Meta Quest community forums to ask questions and share experiences."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-114.jpg",
+                "title": "User Manuals",
+                "description": "Download user manuals and guides for Meta Quest devices."
+            }
+        ]
+    },
+    "Meta Quest Warranty": {
+        "title": "Meta Quest Warranty",
+        "description": "Learn about the warranty options available for your Meta Quest devices and how to make a claim.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-115.jpg",
+                "title": "Warranty Overview",
+                "description": "Get an overview of the warranty coverage for Meta Quest devices."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-116.jpg",
+                "title": "Check Warranty Status",
+                "description": "Check the status of your device’s warranty and eligibility for repairs or replacements."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-117.jpg",
+                "title": "File a Warranty Claim",
+                "description": "Learn how to file a warranty claim for your Meta Quest device."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-118.jpg",
+                "title": "Extended Warranty Options",
+                "description": "Explore options for extending your device’s warranty beyond the standard period."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-119.jpg",
+                "title": "Warranty Terms and Conditions",
+                "description": "Review the terms and conditions of the Meta Quest warranty policy."
+            }
+        ]
+    },
+    "Meta Quest Safety Center": {
+        "title": "Meta Quest Safety Center",
+        "description": "Find resources and information to ensure a safe and secure experience with your Meta Quest devices.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-120.jpg",
+                "title": "Safety Guidelines",
+                "description": "Read the safety guidelines for using Meta Quest devices safely."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-121.jpg",
+                "title": "Privacy Settings",
+                "description": "Learn how to adjust privacy settings on your Meta Quest device to protect your personal information."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-122.jpg",
+                "title": "Secure Usage Tips",
+                "description": "Get tips on how to use your Meta Quest device securely and avoid common risks."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-123.jpg",
+                "title": "Emergency Contacts",
+                "description": "Find emergency contact information and resources for immediate assistance."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-124.jpg",
+                "title": "Safety Features Overview",
+                "description": "Explore the safety features integrated into Meta Quest devices to enhance user security."
+            }
+        ]
+    },
+    "Ray-Ban Meta Support": {
+        "title": "Ray-Ban Meta Support",
+        "description": "Get support and assistance for your Ray-Ban Meta smart glasses with our comprehensive help resources.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-125.jpg",
+                "title": "FAQs",
+                "description": "Find answers to frequently asked questions about Ray-Ban Meta smart glasses."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-126.jpg",
+                "title": "Troubleshooting Guides",
+                "description": "Access troubleshooting guides to resolve common issues with your Ray-Ban Meta glasses."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-127.jpg",
+                "title": "Contact Support",
+                "description": "Get in touch with our support team for personalized assistance with Ray-Ban Meta products."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-128.jpg",
+                "title": "Community Forums",
+                "description": "Join the Ray-Ban Meta community forums to ask questions and share experiences."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-129.jpg",
+                "title": "User Manuals",
+                "description": "Download user manuals and guides for Ray-Ban Meta smart glasses."
+            }
+        ]
+    },
+    "Ray-Ban Meta Warranty": {
+        "title": "Ray-Ban Meta Warranty",
+        "description": "Learn about the warranty options available for your Ray-Ban Meta smart glasses and how to make a claim.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-130.jpg",
+                "title": "Warranty Overview",
+                "description": "Get an overview of the warranty coverage for Ray-Ban Meta smart glasses."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-131.jpg",
+                "title": "Check Warranty Status",
+                "description": "Check the status of your glasses’ warranty and eligibility for repairs or replacements."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-132.jpg",
+                "title": "File a Warranty Claim",
+                "description": "Learn how to file a warranty claim for your Ray-Ban Meta smart glasses."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-133.jpg",
+                "title": "Extended Warranty Options",
+                "description": "Explore options for extending your glasses’ warranty beyond the standard period."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-134.jpg",
+                "title": "Warranty Terms and Conditions",
+                "description": "Review the terms and conditions of the Ray-Ban Meta warranty policy."
+            }
+        ]
+    },
+    "Ray-Ban Meta Safety Center": {
+        "title": "Ray-Ban Meta Safety Center",
+        "description": "Find resources and information to ensure a safe and secure experience with your Ray-Ban Meta smart glasses.",
+        "items": [
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-135.jpg",
+                "title": "Safety Guidelines",
+                "description": "Read the safety guidelines for using Ray-Ban Meta smart glasses safely."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-136.jpg",
+                "title": "Privacy Settings",
+                "description": "Learn how to adjust privacy settings on your Ray-Ban Meta glasses to protect your personal information."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-137.jpg",
+                "title": "Secure Usage Tips",
+                "description": "Get tips on how to use your Ray-Ban Meta glasses securely and avoid common risks."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-138.jpg",
+                "title": "Emergency Contacts",
+                "description": "Find emergency contact information and resources for immediate assistance."
+            },
+            {
+                "image": "https://raw.githubusercontent.com/yavuzceliker/sample-images/main/images/image-139.jpg",
+                "title": "Safety Features Overview",
+                "description": "Explore the safety features integrated into Ray-Ban Meta glasses to enhance user security."
+            }
+        ]
+    }
+
+    }
+    
