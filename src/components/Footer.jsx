@@ -12,7 +12,27 @@ const Footer = () => {
             <div className="row">
                 <div className="col-md-3">
                     <img src={logo} alt="Logo" className="footer-logo" /> 
-                    <img src={log} alt="Logo" className='logo2'/>
+                    <div class="follow-us">
+    <h4>Follow Us</h4>
+    <div class="social-icons">
+        <a href="https://www.facebook.com/login/" class="social-icon" target="_blank">
+            <i class="fab fa-facebook-f"></i>
+        </a>
+        <a href="https://www.instagram.com/accounts/login/" class="social-icon" target="_blank">
+            <i class="fab fa-instagram"></i>
+        </a>
+        <a href="https://accounts.google.com/ServiceLogin" class="social-icon" target="_blank">
+            <i class="fab fa-youtube"></i>
+        </a>
+        <a href="https://twitter.com/login" class="social-icon" target="_blank">
+            <i class="fab fa-twitter"></i>
+        </a>
+        <a href="https://www.linkedin.com/login" class="social-icon" target="_blank">
+            <i class="fab fa-linkedin-in"></i>
+        </a>
+    </div>
+</div>
+
                 </div>
                 <div className="col-md-3">
                     <h5>Virtual Reality</h5>

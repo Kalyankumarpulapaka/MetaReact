@@ -120,3 +120,36 @@
     100% { transform: rotate(360deg); }
   }
   
+
+  .follow-us {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.follow-us h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px; /* Increase gap between icons */
+}
+
+.social-icon {
+    display: inline-block;
+    width: 25px; /* Increase icon size */
+    height: 25px;
+    border-radius: 50%;
+    background-color: #2d3436; /* Dark gray color */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    font-size: 15px; /* Increase icon font size */
+}
+
+.social-icon:hover {
+    background-color: #636e72; /* Slightly lighter gray for hover effect */
+}
