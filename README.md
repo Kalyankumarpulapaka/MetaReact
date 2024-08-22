@@ -18,40 +18,39 @@ Ensure you have the following installed:
 ### **Installation**
 
 Clone the repository:
-
 ```bash
-git clone https://github.com/yourusername/metaclone.git
+### **git clone https://github.com/yourusername/metaclone.git**
 cd metaclone
 
-### Key Files and Directories
+### **Key Files and Directories**
 src/components/: Reusable React components like Navbar, Footer, and Section components.
 src/pages/: Core pages of the application such as Homepage and Homepage2.
 src/styles/: CSS styles for various components and pages.
 
-###🛠️ Built With
+###🛠️ **Built With**
 React - JavaScript library for building user interfaces.
 Bootstrap - Front-end framework for responsive design.
 React Router - Library for routing in React applications.
 PapaParse - Powerful CSV parser for JavaScript.
 
-###🌱 Development Setup
+###🌱 **Development Setup**
 Ensure your development environment is configured with:
 
 VSCode or your favorite code editor
 ESLint - For maintaining code quality
 Prettier - For code formatting (optional but recommended)
-###🤝 Contributing
+###🤝 **Contributing**
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
-Fork the project.
+**Fork the project.**
 Create your feature branch (git checkout -b feature/AmazingFeature).
 Commit your changes (git commit -m 'Add some AmazingFeature').
 Push to the branch (git push origin feature/AmazingFeature).
 Open a pull request.
-###📝 License
+###📝 **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-###✨ Acknowledgments
+###✨ **Acknowledgments**
 Special thanks to the developers behind React and Bootstrap.
 Inspired by the sleek design principles of Meta.
 Enjoy creating with Metaclone! If you find this project helpful, please consider giving it a star on GitHub ⭐.
